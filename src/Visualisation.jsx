@@ -3,7 +3,7 @@ import React from "react";
 import { sampleSize } from "lodash";
 
 let node_list = require("./network/nodes.json");
-let edge_list = require("./network/edges_new.json");
+let edge_list = require("./network/edges.json");
 
 function transformNodes(nodes) {
     return nodes.map((node) => ({
