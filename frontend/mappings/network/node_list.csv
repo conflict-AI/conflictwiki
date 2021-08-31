@@ -1,0 +1,717 @@
+entity_id,entity_attributes
+358,{'name': 'Algeria'}
+701,{'name': 'Angola'}
+737,{'name': 'Afghanistan'}
+738,{'name': 'Albania'}
+746,{'name': 'Azerbaijan'}
+1921,{'name': 'Al-Qaeda'}
+2185,{'name': 'Arabs'}
+2216,{'name': 'Abu Sayyaf'}
+2503,{'name': 'African National Congress'}
+2795,{'name': 'Australian Army'}
+3343,{'name': 'Belgium'}
+3415,{'name': 'Bulgaria'}
+3454,{'name': 'Bangladesh'}
+3457,{'name': 'Belarus'}
+3464,{'name': 'Botswana'}
+3470,{'name': 'Burkina Faso'}
+4887,{'name': 'British Army'}
+5222,{'name': 'Colombia'}
+5321,{'name': 'Czech Republic'}
+5336,{'name': 'Military of Chad'}
+5403,{'name': 'Comoros'}
+5405,{'name': 'China'}
+5447,{'name': 'Cameroon'}
+5478,{'name': 'Central African Republic'}
+5486,{'name': 'Central African Armed Forces'}
+5488,{'name': 'Chad'}
+5573,{'name': 'Croatia'}
+6095,{'name': 'Chechnya'}
+8029,{'name': 'Armed Forces of the Democratic Republic of the Congo'}
+9317,{'name': 'European Union'}
+9356,{'name': 'El Salvador'}
+9366,{'name': 'Equatorial Guinea'}
+10577,{'name': 'Finland'}
+10707,{'name': 'Fiji'}
+10724,{'name': 'French Armed Forces'}
+11104,{'name': 'Fatah'}
+11867,{'name': 'Germany'}
+12047,{'name': 'Gaza Strip'}
+12067,{'name': 'Ghana'}
+12108,{'name': 'Greece'}
+12186,{'name': 'Guinea-Bissau'}
+12194,{'name': 'Military of Guinea-Bissau'}
+13275,{'name': 'Hungary'}
+13373,{'name': 'Haiti'}
+13913,{'name': 'Hamas'}
+13919,{'name': 'Hezbollah'}
+14531,{'name': 'Iceland'}
+14532,{'name': 'Italy'}
+14533,{'name': 'India'}
+14579,{'name': 'Indonesia'}
+14653,{'name': 'Iran'}
+15245,{'name': 'Ismail Khan'}
+15573,{'name': 'Japan'}
+16642,{'name': 'Kazakhstan'}
+17514,{'name': 'Latvia'}
+17515,{'name': 'Luxembourg'}
+17633,{'name': 'Libya'}
+17675,{'name': 'Lithuania'}
+17771,{'name': 'Lebanon'}
+17779,{'name': 'Lebanese Armed Forces'}
+17791,{'name': 'Liberia'}
+17799,{'name': 'Armed Forces of Liberia'}
+17808,{'name': 'Armed Forces of the Libyan Arab Jamahiriya'}
+18606,{'name': 'Liberation Tigers of Tamil Eelam'}
+19088,{'name': 'Malawi'}
+19127,{'name': 'Mali'}
+19291,{'name': 'Morocco'}
+19457,{'name': 'Myanmar'}
+19655,{'name': 'May 23'}
+20182,{'name': 'Afghan Armed Forces'}
+20742,{'name': 'Muslim Brotherhood'}
+20760,{'name': 'Montenegro'}
+21133,{'name': 'NATO'}
+21148,{'name': 'Netherlands'}
+21241,{'name': 'Norway'}
+21255,{'name': 'North Korea'}
+21373,{'name': 'Niger'}
+21383,{'name': 'Nigeria'}
+21391,{'name': 'Nigerian Armed Forces'}
+22316,{'name': 'Oman'}
+22738,{'name': 'Operation Enduring Freedom'}
+22936,{'name': 'Poland'}
+22943,{'name': 'Papua New Guinea'}
+23033,{'name': 'Portugal'}
+23235,{'name': 'Pakistan'}
+23369,{'name': 'Pakistan Armed Forces'}
+23420,{'name': 'Paraguay'}
+23440,{'name': 'Philippines'}
+23444,{'name': 'Politics of the Philippines'}
+23448,{'name': 'Armed Forces of the Philippines'}
+23943,{'name': 'Palestine'}
+24093,{'name': 'Palestinian National Authority'}
+24324,{'name': 'Palestine Liberation Organization'}
+25391,{'name': 'Russia'}
+25445,{'name': 'Romania'}
+25645,{'name': 'Rwanda'}
+25679,{'name': 'Royal Air Force'}
+26100,{'name': 'Revolutionary Armed Forces of Colombia'}
+26667,{'name': 'Spain'}
+26748,{'name': 'Switzerland'}
+26750,{'name': 'Sri Lanka'}
+26779,{'name': 'Soviet Union'}
+26830,{'name': 'Slovakia'}
+27019,{'name': 'South Korea'}
+27278,{'name': 'Senegal'}
+27288,{'name': 'Seychelles'}
+27318,{'name': 'Singapore'}
+27338,{'name': 'Slovenia'}
+27358,{'name': 'Somalia'}
+27366,{'name': 'Somali Armed Forces'}
+27421,{'name': 'Sudan'}
+27429,{'name': 'Sudanese Armed Forces'}
+28246,{'name': 'Sufism'}
+28645,{'name': 'Smuggling'}
+29265,{'name': 'Serbia'}
+30108,{'name': 'Tajikistan'}
+30118,{'name': 'Tanzania'}
+30128,{'name': 'Thailand'}
+30136,{'name': 'Royal Thai Armed Forces'}
+30158,{'name': 'Tonga'}
+30188,{'name': 'Tunisia'}
+30205,{'name': 'Turkish Armed Forces'}
+30635,{'name': 'Taliban'}
+30680,{'name': 'The New York Times'}
+31717,{'name': 'United Kingdom'}
+31750,{'name': 'Ukraine'}
+31769,{'name': 'United Nations'}
+31816,{'name': 'Uganda'}
+31853,{'name': 'Uzbekistan'}
+32087,{'name': 'United States Army'}
+32090,{'name': 'United States Air Force'}
+32212,{'name': 'United States Armed Forces'}
+32374,{'name': 'Venezuela'}
+32443,{'name': 'Vanuatu'}
+33220,{'name': 'Western Sahara'}
+34252,{'name': 'Republic of Yemen Armed Forces'}
+34376,{'name': 'Armed Forces of Serbia and Montenegro'}
+34399,{'name': 'Zimbabwe'}
+34421,{'name': 'Zaire'}
+36870,{'name': 'Commonwealth of Independent States'}
+37778,{'name': 'Tajiks'}
+39237,{'name': 'Israel Defense Forces'}
+44431,{'name': 'Biafra'}
+44956,{'name': 'Kosovo Liberation Army'}
+46530,{'name': 'Human Rights Watch'}
+48192,{'name': 'National Liberation Army'}
+48755,{'name': 'Neo-fascism'}
+51425,{'name': 'Somaliland'}
+51673,{'name': 'Moro Islamic Liberation Front'}
+59537,{'name': 'Hutu'}
+65220,{'name': 'Nagorno-Karabakh'}
+66463,{'name': 'Politics of Afghanistan'}
+66890,"{'name': ""People's Liberation Army""}"
+67538,{'name': 'Australian Defence Force'}
+69328,{'name': 'United Arab Emirates'}
+69680,"{'name': ""Kurdistan Workers' Party""}"
+70767,{'name': 'Iraqi National Congress'}
+70789,{'name': 'Patriotic Union of Kurdistan'}
+73374,{'name': 'Mercenary'}
+76741,{'name': 'Government of Colombia'}
+76762,{'name': 'Democratic Republic of the Congo'}
+76972,{'name': 'Denmark'}
+78643,{'name': 'Government of Venezuela'}
+80777,{'name': 'Kurdistan'}
+85725,{'name': 'Uni'}
+102226,{'name': 'The Washington Post'}
+103100,{'name': 'Jemaah Islamiyah'}
+147372,"{'name': ""People's Armed Police""}"
+147575,{'name': 'Ireland'}
+166957,"{'name': ""Ba'ath Party""}"
+170131,{'name': 'Kyrgyzstan'}
+171166,{'name': 'Nepal'}
+174712,{'name': 'Fifth Republic Movement'}
+177451,{'name': 'Spetsnaz'}
+177909,{'name': 'Progressive Socialist Party'}
+184764,{'name': 'The Jerusalem Post'}
+184799,{'name': 'Anjouan'}
+187749,{'name': 'Ethiopia'}
+188171,{'name': 'Kenya'}
+194200,{'name': 'International Security Assistance Force'}
+195149,{'name': 'Federal government of the United States'}
+197015,{'name': 'Drug cartel'}
+198149,{'name': 'Turkmenistan'}
+199866,{'name': 'Ansar al-Islam'}
+201574,{'name': 'Polisario Front'}
+204633,{'name': 'Fedayeen Saddam'}
+208636,{'name': 'Turkistan Islamic Party'}
+212681,{'name': 'Afghan National Army'}
+214413,{'name': 'Armenian diaspora'}
+215609,{'name': 'Ali Abdullah Saleh'}
+233569,{'name': 'Puntland'}
+233729,{'name': 'Tijuana Cartel'}
+235688,{'name': 'Daily Mirror'}
+245423,{'name': 'UNITA'}
+265083,{'name': 'Solomon Islands'}
+274262,{'name': 'Private military company'}
+284376,{'name': 'SWAPO'}
+285632,"{'name': ""People's Mujahedin of Iran""}"
+286105,{'name': 'Bolivarian Circles'}
+291717,{'name': 'Islamic State of Afghanistan'}
+294118,{'name': 'Ertzaintza'}
+298010,{'name': 'Revolutionary United Front'}
+307675,{'name': 'Ossetians'}
+318381,{'name': 'South Ossetia'}
+319778,{'name': 'Free Aceh Movement'}
+332667,{'name': 'Islamic Emirate of Afghanistan'}
+334751,{'name': 'Cambodia'}
+341221,{'name': 'Australian Federal Police'}
+349303,{'name': 'Saudi Arabia'}
+350939,{'name': 'Yemen'}
+365009,{'name': 'National Guard'}
+371256,{'name': 'Khorasan Province'}
+377433,{'name': 'Pakistan Air Force'}
+380353,{'name': 'Armenian Soviet Socialist Republic'}
+386473,{'name': 'Shamil Basayev'}
+389363,{'name': 'Islamic Movement of Uzbekistan'}
+404448,{'name': 'Azerbaijan Soviet Socialist Republic'}
+408215,{'name': 'Communist Party of India'}
+408677,{'name': 'Nagaland'}
+409121,{'name': 'List of political parties in Venezuela'}
+412540,{'name': 'Somali Democratic Republic'}
+427806,{'name': 'United States special operations forces'}
+453329,{'name': 'Arab tribes in Iraq'}
+455441,{'name': 'Jamaat Ansar al-Sunna'}
+466160,{'name': 'Akwa Ibom State'}
+471981,{'name': 'Agence France-Presse'}
+474042,{'name': 'Karachay-Cherkessia'}
+478947,{'name': 'Popular Resistance Committees'}
+489124,{'name': 'National Revolutionary Front for the Liberation of Haiti'}
+493361,{'name': 'Sagaing Region'}
+518768,{'name': 'Hezbi Islami'}
+541409,{'name': 'Free Papua Movement'}
+553883,{'name': 'Government of India'}
+566821,{'name': 'Islamic terrorism'}
+600792,{'name': 'Close air support'}
+607504,{'name': 'Executive Outcomes'}
+611381,{'name': 'Ondo State'}
+642175,{'name': 'National Liberation Front of Tripura'}
+649718,{'name': 'Lashkar-e-Taiba'}
+672930,{'name': 'Delta State'}
+679693,{'name': 'Iraqi Kurdistan'}
+683270,{'name': 'Janjaweed'}
+718749,{'name': 'South Yemen'}
+747345,{'name': 'Tanzim'}
+748820,"{'name': ""Jama'at al-Tawhid wal-Jihad""}"
+751099,{'name': 'Dagestan'}
+797702,{'name': 'Ingushetia'}
+817725,{'name': 'Kabardino-Balkaria'}
+841673,{'name': 'Macedonia'}
+896126,{'name': 'Tablighi Jamaat'}
+899044,{'name': 'Peshmerga'}
+905817,{'name': 'Abia State'}
+905857,{'name': 'Cross River State'}
+928722,{'name': 'RFE'}
+948638,{'name': 'Derg'}
+1015555,{'name': 'MONUSCO'}
+1019774,{'name': 'Somali Salvation Democratic Front'}
+1088385,{'name': 'Islamic Army in Iraq'}
+1133944,{'name': 'Royal Bhutan Army'}
+1179127,{'name': 'Kuban Cossacks'}
+1181356,{'name': 'National Council of Resistance of Iran'}
+1183789,{'name': 'Pakistan Navy'}
+1188322,{'name': 'Jos'}
+1199752,{'name': 'Mai-Mai'}
+1200377,{'name': 'Center for Security Policy'}
+1241164,{'name': 'SULFA'}
+1246506,{'name': 'Justice and Equality Movement'}
+1258240,{'name': 'Allied Democratic Forces'}
+1260693,{'name': 'Harkat-ul-Mujahideen'}
+1276759,"{'name': ""Tigray People's Liberation Front""}"
+1312990,{'name': 'National Police'}
+1313055,{'name': 'Philippine National Police'}
+1320430,{'name': 'Republic of West Papua'}
+1337691,{'name': 'Syrian Social Nationalist Party'}
+1390015,{'name': 'West Side Boys'}
+1401135,{'name': '055 Brigade'}
+1416994,{'name': 'Mizo National Front'}
+1484811,{'name': 'Janatha Vimukthi Peramuna'}
+1504778,{'name': 'Kurdistan Islamic Movement'}
+1517643,{'name': 'Amal Movement'}
+1529105,{'name': 'Popular Revolutionary Army'}
+1545177,{'name': 'Georgia Train and Equip Program'}
+1576797,{'name': 'Iraqi Army'}
+1608789,{'name': 'National Police Corps'}
+1646730,{'name': 'Jund al-Sham'}
+1662934,{'name': 'Ogaden National Liberation Front'}
+1676875,{'name': 'Democratic Forces for the Liberation of Rwanda'}
+1737554,{'name': 'Transit Center at Manas'}
+1749346,{'name': 'War in Afghanistan'}
+1754397,"{'name': ""People's Democratic Republic of Ethiopia""}"
+1785100,{'name': 'Indian Peace Keeping Force'}
+1873407,{'name': 'Iparretarrak'}
+1886592,{'name': 'Islamic Movement of Afghanistan'}
+1897833,{'name': 'Government of Pakistan'}
+1908022,{'name': 'Government of Peru'}
+1965925,{'name': 'Pakistan Army'}
+1966992,{'name': 'Rivers State'}
+2039914,{'name': 'United Wa State Army'}
+2076117,{'name': 'Iraqi Police'}
+2081585,{'name': 'Rally of Democratic Forces'}
+2099335,{'name': 'Lebanese Communist Party'}
+2142325,{'name': 'Spanish Army'}
+2159021,{'name': 'Inter-Services Intelligence'}
+2163060,{'name': 'Jamiat-e Islami'}
+2225578,{'name': 'State Peace and Development Council'}
+2227620,{'name': 'Bayelsa State'}
+2227627,{'name': 'Edo State'}
+2257545,{'name': 'United National Liberation Front'}
+2288455,{'name': 'Northern Alliance'}
+2326203,{'name': 'Warsangali'}
+2399882,{'name': 'Isatabu Freedom Movement'}
+2421391,{'name': 'Bhutan'}
+2545581,{'name': 'Daily Nation'}
+2631749,{'name': 'Rapid Action Battalion'}
+2635111,{'name': 'Joint Special Operations Command'}
+2642213,{'name': 'Los Zetas'}
+2673836,{'name': 'Future Movement'}
+2703270,{'name': 'Party for Social Renewal'}
+2816470,{'name': 'Terrorism in Pakistan'}
+2874177,{'name': 'Patani United Liberation Organisation'}
+2881379,{'name': 'Barisan Revolusi Nasional'}
+2905770,{'name': 'Kurdistan Islamic Group'}
+2928177,{'name': 'Rahanweyn Resistance Army'}
+2942891,{'name': 'Tripura National Volunteers'}
+3012980,{'name': 'United Somali Congress'}
+3057255,{'name': 'Bloomberg News'}
+3197182,{'name': 'Democratic Party of Iranian Kurdistan'}
+3252889,{'name': 'Caucasian Front'}
+3293496,{'name': 'Sea Tigers'}
+3294160,{'name': 'Gulf Cartel'}
+3299139,{'name': 'Hezb-e Islami Gulbuddin'}
+3373084,{'name': 'Al-Mourabitoun'}
+3434750,{'name': 'United States'}
+3482169,{'name': 'Economic Community of Central African States'}
+3488351,{'name': 'People'}
+3525430,{'name': 'Rally for Democracy and Liberty'}
+3571583,{'name': 'United Front for Democratic Change'}
+3607937,{'name': 'Malaysia'}
+3771075,"{'name': ""People's Revolutionary Party of Kangleipak""}"
+3779347,{'name': 'Movement for the Emancipation of the Niger Delta'}
+3804158,"{'name': ""Jaish al-Ta'ifa al-Mansurah""}"
+3885935,{'name': 'National Movement for Reform and Development'}
+3966054,{'name': 'Mexico'}
+3969667,{'name': 'Kurdistan Free Life Party'}
+4028355,{'name': 'Quds Force'}
+4042337,{'name': 'Movement for Democracy and Justice in Chad'}
+4054894,{'name': 'Paramilitary forces of Pakistan'}
+4055099,{'name': 'Aden-Abyan Islamic Army'}
+4144899,{'name': 'Alliance for the Restoration of Peace and Counter-Terrorism'}
+4322340,"{'name': ""Niger Delta People's Volunteer Force""}"
+4462025,{'name': 'Niger Delta Vigilante'}
+4491031,{'name': 'Iraultza'}
+4512092,{'name': 'Taliban insurgency'}
+4611195,{'name': 'Pakistan Rangers'}
+4689264,{'name': 'Australia'}
+4813888,{'name': 'Basque National Liberation Movement'}
+4858648,"{'name': ""Ethiopian People's Patriotic Front""}"
+4913064,{'name': 'New Zealand'}
+5013244,"{'name': ""People's Liberation Organisation of Tamil Eelam""}"
+5042481,{'name': 'Cuba'}
+5042916,{'name': 'Canada'}
+5058739,{'name': 'Sweden'}
+5140508,{'name': 'Bodo Liberation Tigers Force'}
+5171141,{'name': 'History of Libya under Muammar Gaddafi'}
+5183633,{'name': 'Central Intelligence Agency'}
+5217236,{'name': 'Nepalese Army Air Service'}
+5326401,{'name': 'Chechen Republic of Ichkeria'}
+5428354,{'name': 'Hashid'}
+5435324,{'name': 'Islamic Courts Union'}
+5605323,{'name': 'Nagorno-Karabakh Autonomous Oblast'}
+5773650,{'name': 'Hezbollah Al-Hejaz'}
+5843419,{'name': 'France'}
+5844475,{'name': 'Palestinian National Security Forces'}
+6010135,{'name': 'Balochistan Liberation Army'}
+6120710,{'name': 'Somali National Movement'}
+6186841,{'name': 'Sri Lanka Navy'}
+6191478,{'name': 'Fran'}
+6223534,{'name': 'Oromo Liberation Front'}
+6266060,{'name': 'Yemeni Air Force'}
+6330819,{'name': 'National Gendarmerie'}
+6715199,{'name': 'Sri Lanka Air Force'}
+6758287,{'name': 'Piracy in the Strait of Malacca'}
+7003026,{'name': 'African Union Mission to Somalia'}
+7118299,{'name': 'Operation Ring'}
+7154470,{'name': 'Kadyrovtsy'}
+7278792,{'name': 'National Police of Colombia'}
+7281998,{'name': 'Private militias in Iraq'}
+7439782,{'name': 'Tamil Eelam'}
+7515849,{'name': 'Syria'}
+7515890,{'name': 'Kuwait'}
+7515928,{'name': 'Iraq'}
+7515964,{'name': 'Jordan'}
+7575877,{'name': 'Union of Forces for Democracy and Development'}
+7826589,{'name': 'Jihadism'}
+8087628,{'name': 'Egypt'}
+8089426,{'name': 'Somali National Alliance'}
+8205148,{'name': 'Kale borroka'}
+8238258,{'name': 'Qatar'}
+8295736,{'name': 'Warriors of Christ the King'}
+8609912,{'name': 'Galmudug'}
+8640599,{'name': 'Juba Valley Alliance'}
+8678118,{'name': 'Salafia Jihadia'}
+8727876,{'name': 'Somali National Front'}
+8802974,{'name': 'Afar Revolutionary Democratic Unity Front'}
+8862873,{'name': 'Syrians'}
+8947933,{'name': 'Sipah-e-Sahaba Pakistan'}
+9087364,{'name': 'Islamic State of Iraq and the Levant'}
+9195772,{'name': 'Soldiers of Heaven'}
+9282173,{'name': 'Israel'}
+9347800,{'name': 'United States Africa Command'}
+9371583,{'name': 'Law enforcement in Pakistan'}
+9450702,{'name': 'Forces for Renewal'}
+9519693,{'name': 'Participants in Operation Enduring Freedom'}
+9794248,{'name': 'Al-Qaeda in the Arabian Peninsula'}
+10429702,{'name': 'Frontier Corps'}
+10593562,{'name': 'Salafist Group for Preaching and Combat'}
+10634933,{'name': 'African Union'}
+10832740,{'name': 'Baluch Liberation Front'}
+10867754,{'name': 'Irrintzi'}
+10918072,{'name': 'Armenia'}
+11125639,{'name': 'Turkey'}
+11320004,{'name': 'Fatah al-Islam'}
+11401226,{'name': 'Sons of Iraq'}
+11415404,{'name': 'Islamic Jihad Union'}
+11486556,{'name': 'Police of Serbia'}
+11592852,{'name': 'Arab Democratic Party'}
+11697735,{'name': 'Civil Guard'}
+11760475,{'name': 'Royal Bhutan Police'}
+11959956,{'name': 'Internal Security Forces'}
+11962570,{'name': 'Adivasi Cobra Force'}
+12241100,{'name': 'Dima Halam Daogah'}
+12338572,{'name': 'Special Services Wing'}
+12593188,{'name': 'Nepali Army'}
+12745881,{'name': 'Imo State'}
+12774849,{'name': 'Congolese National Liberation Front'}
+13035534,{'name': 'Hamas of Iraq'}
+13093253,{'name': 'Islamic Jihad Movement in Palestine'}
+13113521,{'name': 'Niger Movement for Justice'}
+13232219,{'name': 'Alliance for the Re-liberation of Somalia'}
+13327465,{'name': 'Afghan National Police'}
+13412132,{'name': 'Royal Thai Marine Corps'}
+13698067,{'name': 'Supreme Command for Jihad and Liberation'}
+14145690,{'name': 'Malcolm Nance'}
+14204350,{'name': 'Khorasan'}
+14305018,{'name': 'Armed Forces of the Islamic Republic of Iran'}
+14338598,{'name': 'Royal Thai Police'}
+14833748,{'name': 'Nepal Police'}
+14912557,{'name': 'Caucasus Emirate'}
+15484477,{'name': 'Lebanese Democratic Party'}
+15498292,{'name': 'Islamic International Peacekeeping Brigade'}
+15536335,{'name': 'Multinational Division Central-South'}
+15552650,"{'name': ""Battle of N'Djamena""}"
+15638998,{'name': 'Arab Mujahideen in Chechnya'}
+15796070,{'name': 'Vilayat Galgaycho'}
+16293969,{'name': 'National Socialist Council of Nagaland'}
+16663159,{'name': 'Kataib al-Khoul'}
+16881931,{'name': 'Sinaloa Cartel'}
+16998586,{'name': 'Sabaot Land Defence Force'}
+17015903,{'name': 'Piracy off the coast of Somalia'}
+17029497,{'name': 'Pakistan Marines'}
+17052695,{'name': 'Lashkar-e-Islam'}
+17207794,{'name': 'Djibouti'}
+17238515,{'name': 'Georgia'}
+17238590,{'name': 'Eritrea'}
+17349325,{'name': 'United States Marine Corps'}
+17349645,{'name': 'Mujahideen Shura Council'}
+17416221,{'name': 'South Africa'}
+17518909,{'name': 'Eastern Shura'}
+17873743,"{'name': ""Lord's Resistance Army""}"
+18305760,{'name': 'Mujahideen'}
+18681435,{'name': 'Bakassi Movement for Self-Determination'}
+18778516,{'name': 'Mauritania'}
+18933277,{'name': 'Bahrain'}
+18933375,{'name': 'Abkhazia'}
+18953699,{'name': 'Tehrik-i-Taliban Pakistan'}
+19426382,{'name': 'Law enforcement in Mexico'}
+19468532,{'name': 'House of Representatives'}
+19522007,{'name': 'Bangladesh Police'}
+19529703,{'name': 'War in North-West Pakistan order of battle'}
+19580896,{'name': 'All Tripura Tiger Force'}
+19975146,{'name': 'National Congress for the Defence of the People'}
+20542620,{'name': 'Riyad-us Saliheen Brigade of Martyrs'}
+20583872,{'name': 'Karbi Longri N.C. Hills Liberation Front'}
+21017661,{'name': 'Baloch nationalism'}
+21421637,{'name': 'Tehreek-e-Nafaz-e-Shariat-e-Mohammadi'}
+21462079,{'name': 'Hizbul Islam'}
+21484846,{'name': 'Haqqani network'}
+21490998,{'name': 'Burundi'}
+21856130,{'name': 'Elite Police'}
+21913090,{'name': 'Combatants of the Iraq War'}
+22695550,{'name': 'Mukhrovani'}
+22983080,{'name': 'Muaskar Anole'}
+23018226,{'name': 'Ras Kamboni Brigades'}
+23118283,{'name': 'National Army for the Liberation of Uganda'}
+23219543,{'name': 'Jikany Nuer'}
+23289165,{'name': 'La Familia Michoacana'}
+23376485,{'name': 'Union of Resistance Forces'}
+23384265,{'name': 'Mexican Armed Forces'}
+23402634,{'name': 'Lashkar-e-Jhangvi'}
+23564616,{'name': 'North Macedonia'}
+23626646,"{'name': ""Kata'ib Hezbollah""}"
+23769768,{'name': 'Boko Haram'}
+23916689,{'name': 'Hezbe Wahdat'}
+23988695,{'name': 'Muslim United Liberation Tigers of Assam'}
+23995791,{'name': 'Jund Ansar Allah'}
+24457252,{'name': 'Afghan National Security Forces'}
+24930943,{'name': 'Federal government of Mexico'}
+25380421,"{'name': ""People's Liberation Army of Manipur""}"
+25537178,{'name': 'Resistance Patriots of Dongo'}
+25539959,"{'name': ""Ahlu Sunna Waljama'a""}"
+25604038,{'name': 'Quetta Shura'}
+25659771,{'name': 'Kurdistan Democratic Party'}
+25964521,{'name': 'Frontier Constabulary'}
+26091881,{'name': 'Southern Movement'}
+26105741,{'name': 'Promised Day Brigade'}
+26106154,"{'name': ""Asa'ib Ahl al-Haq""}"
+26215470,"{'name': ""Ba'athist Iraq""}"
+26232439,{'name': 'Zomi Revolutionary Army'}
+26568072,"{'name': ""General People's Congress""}"
+26765428,{'name': 'Shura-e Nazar'}
+26835464,{'name': 'Muhammad Rasul'}
+26964606,{'name': 'Austria'}
+27145721,{'name': 'Iraqi security forces'}
+27592271,{'name': 'Jabhatul Islamiya'}
+27645462,{'name': 'Baloch Republican Army'}
+27754208,{'name': 'Army of the Men of the Naqshbandi Order'}
+28222445,{'name': 'Estonia'}
+28884400,{'name': 'Milenio Cartel'}
+29276712,{'name': 'Acci'}
+29358772,{'name': 'Hynniewtrep National Liberation Council'}
+29468661,{'name': 'Abdrabbuh Mansur Hadi'}
+30490895,{'name': 'Deshapremi Janatha Viyaparaya'}
+30798271,{'name': 'Liberation and Justice Movement'}
+30864251,{'name': 'Malaita Eagle Force'}
+30875850,{'name': 'Al-Qaeda in the Islamic Maghreb'}
+30973393,{'name': 'Puntland Intelligence Agency'}
+30975423,{'name': 'Police of Russia'}
+31018476,{'name': 'Anti-Gaddafi forces'}
+31167279,{'name': 'Cabinet of Yemen'}
+31169882,{'name': 'Raskamboni Movement'}
+31411846,{'name': 'Royal Solomon Islands Police Force'}
+31560013,{'name': 'Democratic Revolutionary Council'}
+31725421,{'name': 'Chhattisgarh Police'}
+31927499,{'name': 'Knights Templar Cartel'}
+32131564,{'name': 'Special Service Group'}
+32350676,{'name': 'South Sudan'}
+32745522,"{'name': ""United People's Democratic Solidarity""}"
+33653498,{'name': 'Ansar al-Sharia'}
+33737886,{'name': 'Sudan Revolutionary Front'}
+34929376,{'name': 'Al-Nusra Front'}
+34959730,{'name': 'Movement for Oneness and Jihad in West Africa'}
+34991043,"{'name': ""Paraguayan People's Army""}"
+35006872,{'name': 'Jalisco New Generation Cartel'}
+35175793,{'name': 'Ansar Dine'}
+35256005,{'name': 'Puntland Dervish Force'}
+35392140,{'name': 'Leonid Tibilov'}
+35541996,{'name': 'Toubou Front for the Salvation of Libya'}
+35874309,{'name': 'Mullah Dadullah Front'}
+36056901,{'name': 'Independent Cartel of Acapulco'}
+36497032,"{'name': ""People's Protection Units""}"
+36817379,{'name': 'Federal Government of Somalia'}
+37979212,{'name': 'Los Metros'}
+38235695,{'name': 'African-led International Support Mission to Mali'}
+38286904,{'name': 'Ansaru'}
+38364812,{'name': 'Jubaland'}
+38762388,{'name': 'Sahrawi Arab Democratic Republic'}
+39127395,{'name': 'National Defence Forces'}
+39192809,{'name': 'Niger Delta Liberation Front'}
+39280286,{'name': 'United Nations Multidimensional Integrated Stabilization Mission in Mali'}
+39446246,{'name': 'Kanglei Yawol Kanna Lup'}
+39490756,{'name': 'Popular Front for the Liberation of Palestine'}
+39955935,{'name': 'Islamic State of Iraq'}
+40596311,{'name': 'Iraqi insurgency'}
+40850508,{'name': 'Jundallah'}
+40863691,"{'name': ""Al-Aqsa Martyrs' Brigades""}"
+41312023,{'name': 'Civilian Joint Task Force'}
+41487145,{'name': 'Organization for the Islamic Revolution in the Arabian Peninsula'}
+41857550,{'name': 'Kangleipak Communist Party'}
+42565979,{'name': 'Vilayat Nokhchicho'}
+43001917,{'name': 'Maoist Communist Party of Manipur'}
+43667081,{'name': 'Rally of Democratic Forces of Guinea'}
+43683467,{'name': 'Dai Hong Dan incident'}
+43797145,{'name': 'Kamtapur Liberation Organisation'}
+43811375,{'name': 'National Democratic Alliance Army'}
+43965682,{'name': 'Chaambi Operations'}
+44107893,{'name': 'Runda Kumpulan Kecil'}
+44120002,{'name': 'Jaish ul-Adl'}
+44173900,{'name': 'Military activity of ISIL'}
+44284567,{'name': 'Jamaat-ul-Ahrar'}
+44596915,{'name': 'Artsakh'}
+44742232,{'name': 'Resolute Support Mission'}
+44984997,{'name': 'Multinational Joint Task Force'}
+45204749,{'name': 'United States Special Operations Command'}
+45417217,{'name': 'Myanmar National Democratic Alliance Army'}
+45524713,{'name': 'Covert Action Division'}
+45671374,{'name': 'Popular Mobilization Forces'}
+46213555,{'name': 'Islamic State of Iraq and the Levant in Libya'}
+46411512,{'name': 'Harakat Ansar Iran'}
+46454353,{'name': 'Ansar Al-Furqan'}
+46636745,{'name': 'Liwa Fatemiyoun'}
+46876689,{'name': 'Popular Committees'}
+46897180,{'name': 'United National Liberation Front of Western South East Asia'}
+47172089,{'name': 'Red Sea Afar Democratic Organisation'}
+47591650,{'name': 'Fidai Mahaz'}
+48205248,{'name': 'Syrian Democratic Forces'}
+48893730,{'name': 'United Baloch Army'}
+49020788,{'name': 'Indigenous People of Biafra'}
+50205972,{'name': 'Sudanese Awakening Revolutionary Council'}
+50559711,{'name': 'Niger Delta Avengers'}
+51279323,{'name': 'Supreme Political Council'}
+52024291,{'name': 'Niger Delta Greenland Justice Mandate'}
+52852835,{'name': 'Eritrean National Salvation Front'}
+52869043,"{'name': ""Saho People's Democratic Movement""}"
+52875305,{'name': 'Democratic Front for Eritrean Unity'}
+52875526,{'name': 'Democratic Movement for the Liberation of the Eritrean Kunama'}
+53150866,{'name': 'Islamic State in Somalia'}
+53278971,{'name': 'Kuki National Army'}
+53401088,"{'name': ""Jama'at Nasr al-Islam wal Muslimin""}"
+53886111,{'name': 'Imam Shamil Battalion'}
+54251566,{'name': 'Southern Transitional Council'}
+54263323,{'name': 'The Terrorists of Iraq'}
+54722244,{'name': 'Armed Peasant Association'}
+55577612,{'name': 'Islamic State in the Greater Sahara'}
+56524477,{'name': 'Security Belt'}
+56640947,{'name': 'Baqir Brigade'}
+56694430,{'name': 'Al-Ashtar Brigades'}
+56718004,{'name': 'Guardians of Religion Organization'}
+57824112,{'name': 'Sabireen Movement'}
+58550278,{'name': 'Ahvaz National Resistance'}
+58699284,{'name': 'National Police of Paraguay'}
+59919543,{'name': 'RTMC Reconnaissance Battalion'}
+61369191,"{'name': ""Islamic State's Central Africa Province""}"
+62922090,{'name': 'Santa Rosa de Lima Cartel'}
+63023414,{'name': 'Los Viagras'}
+65896995,{'name': 'Eagles of the Central Hills'}
+65944638,{'name': 'Mai-Mai Kyandenga'}
+66235931,{'name': 'Black Cat group'}
+66402699,{'name': 'Chad National Concord'}
+66403024,{'name': 'Union of Forces for Change and Democracy'}
+66404293,{'name': 'Popular Front for National Rebirth'}
+5482,{'name': 'Politics of the Central African Republic'}
+5853,{'name': 'Army of the Czech Republic'}
+12065,{'name': 'Defense Forces of Georgia'}
+12190,{'name': 'Politics of Guinea-Bissau'}
+14131,{'name': 'Hazaras'}
+16660,{'name': 'Kenya Defence Forces'}
+19191,{'name': 'M'}
+21387,{'name': 'Federal government of Nigeria'}
+22986,{'name': 'Politics'}
+23428,{'name': 'Armed Forces of Paraguay'}
+27289,{'name': 'Serbia and Montenegro'}
+58325,{'name': 'Vigilantism'}
+149335,{'name': 'AAA'}
+167928,{'name': 'Republican guard'}
+182803,{'name': 'Canadian Army'}
+342131,{'name': 'North Ossetia'}
+347166,{'name': 'MPLA'}
+427063,{'name': 'United Liberation Front of Asom'}
+448079,{'name': 'Khuzestan Province'}
+451855,{'name': 'Central Reserve Police Force'}
+469639,{'name': 'Liberians United for Reconciliation and Democracy'}
+578961,{'name': 'Peace Companies'}
+589841,{'name': 'Insurgency'}
+622772,{'name': 'Chechens'}
+740220,{'name': 'Special Activities Center'}
+846251,{'name': 'United States Naval Special Warfare Command'}
+900249,{'name': 'National Liberation Front of Angola'}
+998498,{'name': 'Gal'}
+1000530,{'name': 'Republic of Artsakh'}
+1113713,{'name': 'United Nations Operation in Somalia II'}
+1154854,{'name': 'Royal Netherlands Army'}
+1262096,"{'name': ""New People's Army""}"
+1335473,{'name': 'National Democratic Front of Boroland'}
+1441792,{'name': 'Badr Organization'}
+1486011,{'name': 'Insurgency in Northeast India'}
+1500005,{'name': 'Ministry of Defence'}
+1530705,{'name': 'Polish Land Forces'}
+1799523,{'name': 'Gendarmerie General Command'}
+2105749,{'name': 'Romanian Land Forces'}
+2342752,{'name': 'Border Guards Bangladesh'}
+2377550,{'name': 'Government of the Philippines'}
+2485336,{'name': 'Islamic Liberation Front of Patani'}
+3285814,{'name': '1920 Revolution Brigades'}
+4503010,{'name': 'Transitional federal parliament of Somalia'}
+5460470,{'name': 'Transitional federal government of Somalia'}
+5592225,{'name': 'Harkat-ul-Jihad al-Islami'}
+6784645,{'name': 'Southern Sudan autonomous region'}
+7429605,{'name': 'Somali Patriotic Movement'}
+8552361,{'name': 'Interethnic Association for the Development of the Peruvian Rainforest'}
+8828625,{'name': 'Shariat Jamaat'}
+11273902,{'name': 'Multi-National Force West'}
+11447628,{'name': 'Abkhazian Armed Forces'}
+12786576,{'name': 'Tanzim Qaidat al-Jihad fi Bilad al-Rafidayn'}
+12968316,{'name': 'Al-Shabab'}
+13888982,{'name': 'Ministry of home affairs'}
+14095229,{'name': 'Palestinian Preventive Security'}
+16055614,{'name': 'Mohammad Yousuf'}
+17240332,{'name': 'Houthi movement'}
+19196675,"{'name': ""South Sudan People's Defence Forces""}"
+20517709,{'name': 'Border Patrol Police'}
+20518076,{'name': 'United States Navy'}
+21475491,{'name': 'Magdalo Faction'}
+23408142,{'name': 'Sri Lanka Armed Forces'}
+25197884,{'name': 'National Islamic Movement of Afghanistan'}
+27344057,{'name': 'Special group'}
+28223609,"{'name': ""Inter University Students' Federation""}"
+30726095,{'name': 'Muslim Brotherhood in Egypt'}
+30747164,{'name': 'SEAL Team Six'}
+30871819,{'name': 'Law enforcement agency'}
+32595136,{'name': 'Takfir wal-Hijra'}
+36991518,{'name': 'Autonomous Administration of North and East Syria'}
+38264234,{'name': 'European Union Training Mission in Mali'}
+40479968,{'name': 'United Nations Force Intervention Brigade'}
+43112164,{'name': 'European Union Training Mission in Somalia'}
+45690137,{'name': 'Grupos de autodefensa comunitaria'}
+53185055,{'name': 'All-Palestine Protectorate'}
