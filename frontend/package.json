@@ -20,11 +20,11 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "build": "rm -rf build && DISABLE_ESLINT_PLUGIN=true react-scripts build && rm -rf docs && mv build docs",
+    "build": "rm -rf build && react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -b gh-pages -d docs"
+    "deploy": "gh-pages -b gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
@@ -32,6 +32,9 @@
       "react-app/jest"
     ]
   },
+    "resolutions": {
+   "bezier-js": "4.0.3"
+    },
   "browserslist": {
     "production": [
       ">0.2%",
