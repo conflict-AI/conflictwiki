@@ -9,7 +9,7 @@ For examples on how to load and visualise the data please see here:
 [loading all data](tutorials/ConflictWiki%20Data.ipynb) <br>
 [visualising the data as network](tutorials/ConflictWiki%20Network.ipynb)
 
-![alt text](tutorials/pictures/overview.png "overview")
+![alt text](paper-code/tutorials/pictures/overview.png "overview")
 
 
 ## Data Directory Structure
