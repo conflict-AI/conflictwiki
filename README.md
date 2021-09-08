@@ -1,6 +1,6 @@
-# Conflictwiki
+# ConflictWiki
 
-This repository houses the code, and dataset for the paper *Text or Topology? Classifying Ally-Enemy Pairs in Militarised Conflict*
+This repository houses the code and dataset for the paper *Text or Topology? Classifying Ally-Enemy Pairs in Militarised Conflict*
 
 Niklas Stoehr, Lucas Torroba Hennigen, Samin Ahbab, Robert West, Ryan Cotterell
 
