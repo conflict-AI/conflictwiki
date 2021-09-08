@@ -1,3 +1,11 @@
+# Conflictwiki
+
+This repository houses the code, and dataset for the paper *Text or Topology? Classifying Ally-Enemy Pairs in Militarised Conflict*
+
+Niklas Stoehr, Lucas Torroba Hennigen, Samin Ahbab, Robert West, Ryan Cotterell
+
+ETH Zurich, MIT, EPFL, University of Cambridge
+
 # ConflictWiki Data v0.1
 
 We introduce the ConflictWiki dataset, a large collection of [Wikipedia articles on armed conflict](https://en.wikipedia.org/wiki/Category:Conflicts) featuring full text accompanied by pre-computed meaningful Longformer representations of the text on the document- and section-level.
