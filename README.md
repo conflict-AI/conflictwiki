@@ -1,77 +1,71 @@
-# ConflictWiki
-
-This repository houses the code and dataset for the paper *Text or Topology? Classifying Ally-Enemy Pairs in Militarised Conflict*
-
-Niklas Stoehr, Lucas Torroba Hennigen, Samin Ahbab, Robert West, Ryan Cotterell
-
-ETH Zurich, MIT, EPFL, University of Cambridge
-
 # ConflictWiki Data v0.1
 
-We introduce the ConflictWiki dataset, a large collection of [Wikipedia articles on armed conflict](https://en.wikipedia.org/wiki/Category:Conflicts) featuring full text accompanied by pre-computed meaningful Longformer representations of the text on the document- and section-level.
-Each conflict is annotated with starting and end date, location, casualty counts, group strengths and conflict outcome.
-If provided on Wikipedia, entity articles feature auxiliary tabular information on languages, religion, ISO2 code and ideology.
+We introduce the ConflictWiki dataset, a large collection of [Wikipedia articles on armed conflict](https://en.wikipedia.org/wiki/Category:Conflicts).
+Each conflict is annotated with starting and end date, location, casualty counts, group strengths and conflict outcome. 
+If provided on Wikipedia, entity articles feature auxiliary tabular information on languages, religion, ISO2 code and ideology. 
 
 For examples on how to load and visualise the data please see here:
 
-[loading all data](tutorials/ConflictWiki%20Data.ipynb) <br>
-[visualising the data as network](tutorials/ConflictWiki%20Network.ipynb)
+[loading all data](tutorials/data%20loading.ipynb) <br>
+[visualising the data as network](tutorials/network%20loading.ipynb)
 
-![alt text](paper-code/tutorials/pictures/overview.png "overview")
+For reproducing the experiments, we prepared several Jupyter notebooks:
+
+[tf-idf analysis](experiments/tf-idf%20analysis.ipynb) <br>
+[tf-idf visualisation](experiments/tf-idf%20visualisation.ipynb) <br>
+[section similarity](experiments/section%20similarity.ipynb) <br>
+[dyadic setting](experiments/dyadic.ipynb) <br>
+[systemic setting](experiments/systemic.ipynb) 
 
 
-## Data Directory Structure
+![alt text](experiments/images/overview.png "overview")
 
-The data directory contains three subdirectory, `conflict`, `entity` and `mappings`.
-`conflict` contains conflict-related data and information.
-`entity` contains entity-related data and information.
-`mappings` contains the conflict-entity and entity-entity relationships.
-If there are multiple files in a directory, they all contain the same content.
-We provide most data in multiple data formats (json, csv, pickle).
-The contents of each subdirectory is explained in the following.
+
+## Citing
+Please cite as follows 
 
 ```
-|   data
-	|   conflict
-		|   data
-				| embedding
-				| text
-		|   info
-	|   entity
-		|   data
-				| embedding
-				| text
-		|   info
-	|   mappings
-		|   conflict_entity_id
-		|   ally_enemy_pairs
-		|   network
-				|   aggr_edge_list
-				|   node_list
+@article{
+stoehr2021text,
+title={Text or Topology? Classifying Ally-Enemy Pairs in Militarised Conflict},
+author={Niklas Stoehr, Lucas Torroba Hennigen, Samin Ahbab, Robert West and Ryan Cotterell},
+booktitle={Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing (EMNLP)},
+year={2021},
+url={https://conflict-ai.github.io/conflictwiki/},
+}
 ```
 
-### conflict
+## Data 
 
-##### data
+The data is divided into 
 
-contains the retrieved conflict articles.
+(1) [data mappings](mappings/) containing meta data such as ally-enemy pairs, network structure and
+auxiliary information.
 
-- `embedding` features the articles' Longformer representations as a pickled dictionary.
-`conflict_id` is the conflict id; `entity_id` is the id of the entity as mentioned in the conflict article;
-`embeddings` are the representations of the relevant entities in the article.
- We use the key `0` to represent the entire conflict article as a whole, irrespective of entities.
+(2) the actual raw textual data which can be downloaded [here](https://drive.google.com/drive/folders/19wWcmInw7rxnLYeV8n-RdpdU6pdePOdT?usp=sharing).
 
-	```
-	{conflict_id: entity_id: embeddings}
-	```
+## Repository and Code
 
-- `text` is the raw full text.
+```
+|   repo
+    |   mappings
+        |   conflict
+            |   infos / auxiliary information
+        |   entity
+            |   infos / auxiliary information
+        |   conflict_entity
+            | ally-enemy pairs
+            | conflict_entity_ids
+        |   network
+                |   aggr_edge_list
+                |   node_list
+    |   code
+    |   experiments
+    |   tutorials
+```
 
-	```
-	{conflict_id: section_title: text}
-	```
-
-##### info
+### mappings
+#### conflict
 
 contains all information on the conflicts as extracted from the [Wikipedia militarized conflict template](https://en.wikipedia.org/wiki/Template:Infobox_military_conflict).
 
@@ -85,27 +79,7 @@ commander lists all military commanders per belligerent (dictionary keys are bel
 result is a brief textual summary of the outcome  <br>
 
 
-### entity
-
-##### data
-
-contains the retrieved entity articles.
-
-- `embedding` features the articles' Longformer representations as a pickled dictionary.
-`entity_id` is the entity id; `section_title` is the title of the section;
-`embeddings` are the representations of the sections in entity article
-
-	```
-	{entity_id: section_title: embeddings}
-	```
-
-- `text` is the raw full text.
-
-	```
-	{entity_id: section_title: text}
-	```
-
-##### info
+#### entity
 
 contains all information on the entities as extracted from the [Wikipedia article info box](https://en.wikipedia.org/wiki/Mali).
 
@@ -113,12 +87,12 @@ contains all information on the entities as extracted from the [Wikipedia articl
 
 num_conflicts gives the number of conflicts, the entity is involved in; <br>
 
-### mappings
+#### conflict_entity
 
-##### conflict_entity_id
+###### conflict_entity_id
 
 Contains the ids of all conflicts and the ids of all involved entities partitioned into belligerents.
-In the examplatory conflict below, we have three belligerents, of which the first two are formed by two entities each
+In the examplatory conflict below, we have three belligerents, of which the first two are formed by two entities each 
 and the third belligerent consists of only one entity
 
 ```
@@ -126,7 +100,7 @@ and the third belligerent consists of only one entity
 (1220919: [[1576797, 31717, 4887, 3434750], [40596311]])
 ```
 
-##### ally_enemy_pairs
+###### ally_enemy_pairs
 
 Contains the ids of entity pairs, a conflict id and the relationship of the entities in the given conflict as displayed below
 
@@ -135,12 +109,12 @@ Contains the ids of entity pairs, a conflict id and the relationship of the enti
 ((27019, 103100), 22738, "enemies")
 ```
 
-##### network
+#### network
 
 Contains the precomputed, aggregated network, where nodes are entities and edges are all conflicts between any two respective entities aggregated.
 Aggregated dyad network; nodes represent entities, edges represent aggregated conflicts between entities, edge line width represents number of conflicts, edge colouring represents relationship
 
-![alt text](tutorials/pictures/task_construction.png "task_construction")
+![alt text](experiments/images/task_construction.png "task_construction")
 
 
 ###### aggr_edge_list
