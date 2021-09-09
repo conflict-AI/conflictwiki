@@ -1,0 +1,13 @@
+[paths]
+word2vec = "data/word2vec"
+data_publishing = "data/publish/conflict_entity_relationship"
+wiki_index = "data/raw/enwiki-20210201-pages-articles-multistream-index.txt.bz2"
+wiki_stream = "data/raw/enwiki-20210201-pages-articles-multistream.xml.bz2"
+conflict_retrieval = "data/retrieval/conflict"
+entity_retrieval = "data/retrieval/entity"
+conflict_dataprep = "data/dataprep/conflict"
+entity_dataprep = "data/dataprep/entity"
+conflict_embed = "data/embed/conflict"
+entity_embed = "data/embed/entity"
+task = "data/task"
+plots = "results/plots"
