@@ -1,12 +1,29 @@
 function Abstract() {
-  return (
-    <div>
-      <br />
+    return (
+	<div>
+	    <br />
 
-      <h3>Abstract</h3>
-      <p>Mitigation of militarised conflict requires an understanding of conflict causes and the relationships of warring entities. Peace and Conflict Studies seeks to build this understanding by considering differing ideologies of entity pairs (dyadic theories) and multi-lateral relationship structures (systemic theories). However, dyadic and systemic theories are not only entangled, but hard to operationalise and validate. The available event-level, tabular data is limiting quantitative models to mostly theory-free prediction. To address this issue, we propose combining rich textual and topological, conflict-level data with an expressive graph neural network. We publish the ConflictWiki dataset, a large graph extracted from Wikipedia where nodes represent entities connected by labelled edges representing “ally” or “enemy”-relationships in conflict. Node and edge features are given by Lonformer document embeddings of entity and conflict articles. This allows casting the problem as an edge classification task holding back certain textual or topological information depending on the dyadic or systemic setting. We obtain slightly stronger results in the systemic setting and find that the articles of entities are more informative for the ally--enemy classification task than the conflict article itself. Articles of allies are semantically more similar than those of enemies and certain sections (e.g. religion, politics) are more conflict-indicative overall.</p>
-    </div>
-  );
-};
+	    <h3>Abstract</h3>
+	    <p>
+		Understanding the origins of militarized conflict is a complex, yet
+		important undertaking. Existing research seeks to build this
+		understanding by considering bi-lateral relationships between entity
+		pairs (dyadic causes) and multi-lateral relationships among multiple
+		entities (systemic causes). The aim of this work is to compare these two
+		causes in terms of how they correlate with conflict between two
+		entities. We do this by devising a set of textual and graph-based
+		features which represent each of the causes. The features are extracted
+		from Wikipedia and modeled as a large graph. Nodes in this graph
+		represent entities connected by labeled edges representing ally or
+		enemy-relationships. This allows casting the problem as an edge
+		classification task, which we term dyad classification. We propose and
+		evaluate classifiers to determine if a particular pair of entities are
+		allies or enemies. Our results suggest that our systemic features might
+		be slightly better correlates of conflict. Further, we find that
+		Wikipedia articles of allies are semantically more similar than enemies.
+      </p>
+	</div>
+    );
+}
 
 export default Abstract;
