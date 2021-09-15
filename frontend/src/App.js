@@ -52,11 +52,16 @@ class App extends React.Component {
     return (
       <Container fluid>
 	<div>
-	  <h1> ConflictWiki Dataset </h1>
+	  <h1> ConflictWiki </h1>
 	  <h3>
-	    Text or Topology? Classifying Ally-Enemy Pairs in Militarised
-	    Conflict
+	    Classifying Dyads for Militarized Conflict Analysis
 	  </h3>
+	  <h5>Published in Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing (EMNLP)
+</h5>
+	  <a href="https://niklas-stoehr.com">Niklas Stoehr  </a> &nbsp; &nbsp;
+	  <a href="https://ltorroba.github.io">Lucas Torroba Hennigen </a> &nbsp; &nbsp;
+	  <a href="https://www.linkedin.com/in/samin-ahbab-4ba45a43/">Samin Ahbab   </a> &nbsp; &nbsp;
+	  <a href="https://rycolab.io/authors/ryan/">   Robert West </a>
 	</div>
 
 	<Row className="vh-100 d-flex">
@@ -104,7 +109,7 @@ class App extends React.Component {
 	    />
 	  </Col>
 	</Row>
-      </Container>
+      </Container >
     );
   }
 }
