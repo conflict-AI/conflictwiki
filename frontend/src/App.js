@@ -8,6 +8,10 @@ import Row from "react-bootstrap/Row";
 import cloneDeep from "lodash";
 import React, { useCallback, useState } from "react";
 
+import cambridge from "./logos/cambridge.png";
+import zurich from "./logos/zurich.png";
+import epfl from "./logos/epfl.png";
+
 import VisualisationGraph from "./Visualisation";
 
 import InfoSection from "./infoColumn";
@@ -51,18 +55,29 @@ class App extends React.Component {
   render() {
     return (
       <Container fluid>
-	<div>
-	  <h1> ConflictWiki </h1>
-	  <h3>
-	    Classifying Dyads for Militarized Conflict Analysis
+	<Row>
+	  <Col xs={9} sm={9} md={9} lg={9} xl={9}>
+	    <h1> ConflictWiki </h1>
+	    <h3>
+	      Classifying Dyads for Militarized Conflict Analysis
 	  </h3>
-	  <h5>Published in Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing (EMNLP)
+	    <h5>Published in Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing (EMNLP)
 </h5>
-	  <a href="https://niklas-stoehr.com">Niklas Stoehr  </a> &nbsp; &nbsp;
+	    <a href="https://niklas-stoehr.com">Niklas Stoehr  </a> &nbsp; &nbsp;
 	  <a href="https://ltorroba.github.io">Lucas Torroba Hennigen </a> &nbsp; &nbsp;
 	  <a href="https://www.linkedin.com/in/samin-ahbab-4ba45a43/">Samin Ahbab   </a> &nbsp; &nbsp;
-	  <a href="https://rycolab.io/authors/ryan/">   Robert West </a>
-	</div>
+	<a href="https://rycolab.io/authors/ryan/">   Robert West </a>
+	  </Col>
+	  <Col xs={3} sm={3} md={3} lg={3} xl={3}>
+	    <br />
+	    <br />
+	    <img src={cambridge} style={{ width: "100px", height: "10" }} />
+	    <img src={zurich} style={{ width: "100px", height: "10" }} />
+	    <img src={epfl} style={{ width: "70px", height: "17px" }} />
+
+
+	  </Col>
+	</Row>
 
 	<Row className="vh-100 d-flex">
 	  <Col xs={3} sm={7} className="vh-100 d-flex">

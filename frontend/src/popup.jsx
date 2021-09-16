@@ -35,7 +35,7 @@ export default () => (
 	    <a href=" https://github.com/conflict-ai/conflictwiki"> here </a>
 		    </p>
 		    <p>
-			Please diret any questions to{" "}
+			Please direct any questions to{" "}
 			<a href="mailto:niklas.stoehr@inf.ethz.ch">
 			    niklas.stoehr@inf.ethz.ch
 	    </a>
