@@ -1,8 +1,16 @@
 # ConflictWiki Data v0.1
 
+
+[![frontend](experiments/images/favicon.png)](https://conflict-ai.github.io/conflictwiki/)
+<frontend src="experiments/images/favicon.png"  width="20" height="20" />
+
+
 We introduce the ConflictWiki dataset, a large collection of [Wikipedia articles on armed conflict](https://en.wikipedia.org/wiki/Category:Conflicts).
 Each conflict is annotated with starting and end date, location, casualty counts, group strengths and conflict outcome. 
 If provided on Wikipedia, entity articles feature auxiliary tabular information on languages, religion, ISO2 code and ideology. 
+
+[ConflictWiki Frontend](https://conflict-ai.github.io/conflictwiki/) 
+
 
 For examples on how to load and visualise the data please see here:
 
@@ -34,6 +42,7 @@ year={2021},
 url={https://conflict-ai.github.io/conflictwiki/},
 }
 ```
+
 
 ## Data 
 
