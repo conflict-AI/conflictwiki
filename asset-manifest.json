@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/conflictwiki/static/css/main.d87cbb72.chunk.css",
-    "main.js": "/conflictwiki/static/js/main.341677a4.chunk.js",
-    "main.js.map": "/conflictwiki/static/js/main.341677a4.chunk.js.map",
+    "main.js": "/conflictwiki/static/js/main.719addb7.chunk.js",
+    "main.js.map": "/conflictwiki/static/js/main.719addb7.chunk.js.map",
     "runtime-main.js": "/conflictwiki/static/js/runtime-main.bfc2892a.js",
     "runtime-main.js.map": "/conflictwiki/static/js/runtime-main.bfc2892a.js.map",
     "static/css/2.27dd871e.chunk.css": "/conflictwiki/static/css/2.27dd871e.chunk.css",
@@ -15,6 +15,7 @@
     "static/css/main.d87cbb72.chunk.css.map": "/conflictwiki/static/css/main.d87cbb72.chunk.css.map",
     "static/js/2.ff550017.chunk.js.LICENSE.txt": "/conflictwiki/static/js/2.ff550017.chunk.js.LICENSE.txt",
     "static/media/cambridge.ed60b324.png": "/conflictwiki/static/media/cambridge.ed60b324.png",
+    "static/media/mit.7d1f149c.png": "/conflictwiki/static/media/mit.7d1f149c.png",
     "static/media/zurich.9ff072d9.png": "/conflictwiki/static/media/zurich.9ff072d9.png"
   },
   "entrypoints": [
@@ -22,6 +23,6 @@
     "static/css/2.27dd871e.chunk.css",
     "static/js/2.ff550017.chunk.js",
     "static/css/main.d87cbb72.chunk.css",
-    "static/js/main.341677a4.chunk.js"
+    "static/js/main.719addb7.chunk.js"
   ]
 }
