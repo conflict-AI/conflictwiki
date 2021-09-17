@@ -58,12 +58,8 @@ class App extends React.Component {
       <Container fluid>
 	<Row>
 	  <Col xs={8} sm={8} md={8} lg={8} xl={8}>
-	    <h1> ConflictWiki </h1>
-	    <h4>
-	      Classifying Dyads for Militarized Conflict Analysis
-	  </h4>
-	    <h5>Published in Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing (EMNLP)
-	    </h5>
+	    <h2> <b>ConflictWiki</b>	      Classifying Dyads for Militarized Conflict Analysis </h2>
+	    <h5>Empirical Methods in Natural Language Processing (EMNLP) 2021</h5>
 
 	    <a href="https://niklas-stoehr.com">Niklas Stoehr  </a> &nbsp; &nbsp;
 	  <a href="https://ltorroba.github.io">Lucas Torroba Hennigen </a> &nbsp; &nbsp;
