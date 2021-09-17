@@ -57,20 +57,23 @@ class App extends React.Component {
     return (
       <Container fluid>
 	<Row>
-	  <Col xs={9} sm={9} md={9} lg={9} xl={9}>
+	  <Col xs={8} sm={8} md={8} lg={8} xl={8}>
 	    <h1> ConflictWiki </h1>
-	    <h3>
+	    <h4>
 	      Classifying Dyads for Militarized Conflict Analysis
-	  </h3>
+	  </h4>
 	    <h5>Published in Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing (EMNLP)
-</h5>
+	    </h5>
+
 	    <a href="https://niklas-stoehr.com">Niklas Stoehr  </a> &nbsp; &nbsp;
 	  <a href="https://ltorroba.github.io">Lucas Torroba Hennigen </a> &nbsp; &nbsp;
 	  <a href="https://www.linkedin.com/in/samin-ahbab-4ba45a43/">Samin Ahbab   </a> &nbsp; &nbsp;
 	    <a href="https://rycolab.io/authors/ryan/">   Robert West </a> &nbsp; &nbsp;
 	    <a href="https://rycolab.io/authors/ryan/"> Ryan Cotterell </a>
+	    <br />
+	    <br />
 	  </Col>
-	  <Col xs={3} sm={3} md={3} lg={3} xl={3}>
+	  <Col xs={4} sm={4} md={4} lg={4} xl={4}>
 	    <br />
 	    <br />
 	    <img src={zurich} style={{ width: "100px", height: "10" }} />
