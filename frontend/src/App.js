@@ -11,6 +11,7 @@ import React, { useCallback, useState } from "react";
 import cambridge from "./logos/cambridge.png";
 import zurich from "./logos/zurich.png";
 import epfl from "./logos/epfl.png";
+import mit from "./logos/mit.png";
 
 import VisualisationGraph from "./Visualisation";
 
@@ -66,15 +67,16 @@ class App extends React.Component {
 	    <a href="https://niklas-stoehr.com">Niklas Stoehr  </a> &nbsp; &nbsp;
 	  <a href="https://ltorroba.github.io">Lucas Torroba Hennigen </a> &nbsp; &nbsp;
 	  <a href="https://www.linkedin.com/in/samin-ahbab-4ba45a43/">Samin Ahbab   </a> &nbsp; &nbsp;
-	<a href="https://rycolab.io/authors/ryan/">   Robert West </a>
+	    <a href="https://rycolab.io/authors/ryan/">   Robert West </a> &nbsp; &nbsp;
+	    <a href="https://rycolab.io/authors/ryan/"> Ryan Cotterell </a>
 	  </Col>
 	  <Col xs={3} sm={3} md={3} lg={3} xl={3}>
 	    <br />
 	    <br />
-	    <img src={cambridge} style={{ width: "100px", height: "10" }} />
 	    <img src={zurich} style={{ width: "100px", height: "10" }} />
+	    <img src={mit} style={{ width: "100px", height: "10" }} />
 	    <img src={epfl} style={{ width: "70px", height: "17px" }} />
-
+	    <img src={cambridge} style={{ width: "100px", height: "10" }} />
 
 	  </Col>
 	</Row>
