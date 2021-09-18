@@ -20,10 +20,9 @@ import GraphInfo from "./GraphInfo";
 import InfoPopup from "./popup";
 
 import { SizeMe } from "react-sizeme";
+import { isMobile } from "react-device-detect";
 
-// function handleClick() {
-//   console.log("Button Clicked!");
-// }
+
 
 class App extends React.Component {
   constructor(props) {
@@ -54,6 +53,9 @@ class App extends React.Component {
   }
 
   render() {
+    if (isMobile) {
+      return (<div> This app is designed only for desktop. Please view on desktop.</div>);
+    }
     return (
       <Container fluid>
 	<Row>
@@ -64,7 +66,7 @@ class App extends React.Component {
 	    <a href="https://niklas-stoehr.com">Niklas Stoehr  </a> &nbsp; &nbsp;
 	  <a href="https://ltorroba.github.io">Lucas Torroba Hennigen </a> &nbsp; &nbsp;
 	  <a href="https://www.linkedin.com/in/samin-ahbab-4ba45a43/">Samin Ahbab   </a> &nbsp; &nbsp;
-	    <a href="https://rycolab.io/authors/ryan/">   Robert West </a> &nbsp; &nbsp;
+	    <a href="https://dlab.epfl.ch/people/west/">   Robert West </a> &nbsp; &nbsp;
 	    <a href="https://rycolab.io/authors/ryan/"> Ryan Cotterell </a>
 	    <br />
 	    <br />
