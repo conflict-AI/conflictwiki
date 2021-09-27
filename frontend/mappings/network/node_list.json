@@ -1,0 +1,716 @@
+{"index":0,"entity_id":358,"entity_attributes":{"name":"Algeria"}}
+{"index":1,"entity_id":701,"entity_attributes":{"name":"Angola"}}
+{"index":2,"entity_id":737,"entity_attributes":{"name":"Afghanistan"}}
+{"index":3,"entity_id":738,"entity_attributes":{"name":"Albania"}}
+{"index":4,"entity_id":746,"entity_attributes":{"name":"Azerbaijan"}}
+{"index":5,"entity_id":1921,"entity_attributes":{"name":"Al-Qaeda"}}
+{"index":6,"entity_id":2185,"entity_attributes":{"name":"Arabs"}}
+{"index":7,"entity_id":2216,"entity_attributes":{"name":"Abu Sayyaf"}}
+{"index":8,"entity_id":2503,"entity_attributes":{"name":"African National Congress"}}
+{"index":9,"entity_id":2795,"entity_attributes":{"name":"Australian Army"}}
+{"index":10,"entity_id":3343,"entity_attributes":{"name":"Belgium"}}
+{"index":11,"entity_id":3415,"entity_attributes":{"name":"Bulgaria"}}
+{"index":12,"entity_id":3454,"entity_attributes":{"name":"Bangladesh"}}
+{"index":13,"entity_id":3457,"entity_attributes":{"name":"Belarus"}}
+{"index":14,"entity_id":3464,"entity_attributes":{"name":"Botswana"}}
+{"index":15,"entity_id":3470,"entity_attributes":{"name":"Burkina Faso"}}
+{"index":16,"entity_id":4887,"entity_attributes":{"name":"British Army"}}
+{"index":17,"entity_id":5222,"entity_attributes":{"name":"Colombia"}}
+{"index":18,"entity_id":5321,"entity_attributes":{"name":"Czech Republic"}}
+{"index":19,"entity_id":5336,"entity_attributes":{"name":"Military of Chad"}}
+{"index":20,"entity_id":5403,"entity_attributes":{"name":"Comoros"}}
+{"index":21,"entity_id":5405,"entity_attributes":{"name":"China"}}
+{"index":22,"entity_id":5447,"entity_attributes":{"name":"Cameroon"}}
+{"index":23,"entity_id":5478,"entity_attributes":{"name":"Central African Republic"}}
+{"index":24,"entity_id":5486,"entity_attributes":{"name":"Central African Armed Forces"}}
+{"index":25,"entity_id":5488,"entity_attributes":{"name":"Chad"}}
+{"index":26,"entity_id":5573,"entity_attributes":{"name":"Croatia"}}
+{"index":27,"entity_id":6095,"entity_attributes":{"name":"Chechnya"}}
+{"index":28,"entity_id":8029,"entity_attributes":{"name":"Armed Forces of the Democratic Republic of the Congo"}}
+{"index":29,"entity_id":9317,"entity_attributes":{"name":"European Union"}}
+{"index":30,"entity_id":9356,"entity_attributes":{"name":"El Salvador"}}
+{"index":31,"entity_id":9366,"entity_attributes":{"name":"Equatorial Guinea"}}
+{"index":32,"entity_id":10577,"entity_attributes":{"name":"Finland"}}
+{"index":33,"entity_id":10707,"entity_attributes":{"name":"Fiji"}}
+{"index":34,"entity_id":10724,"entity_attributes":{"name":"French Armed Forces"}}
+{"index":35,"entity_id":11104,"entity_attributes":{"name":"Fatah"}}
+{"index":36,"entity_id":11867,"entity_attributes":{"name":"Germany"}}
+{"index":37,"entity_id":12047,"entity_attributes":{"name":"Gaza Strip"}}
+{"index":38,"entity_id":12067,"entity_attributes":{"name":"Ghana"}}
+{"index":39,"entity_id":12108,"entity_attributes":{"name":"Greece"}}
+{"index":40,"entity_id":12186,"entity_attributes":{"name":"Guinea-Bissau"}}
+{"index":41,"entity_id":12194,"entity_attributes":{"name":"Military of Guinea-Bissau"}}
+{"index":42,"entity_id":13275,"entity_attributes":{"name":"Hungary"}}
+{"index":43,"entity_id":13373,"entity_attributes":{"name":"Haiti"}}
+{"index":44,"entity_id":13913,"entity_attributes":{"name":"Hamas"}}
+{"index":45,"entity_id":13919,"entity_attributes":{"name":"Hezbollah"}}
+{"index":46,"entity_id":14531,"entity_attributes":{"name":"Iceland"}}
+{"index":47,"entity_id":14532,"entity_attributes":{"name":"Italy"}}
+{"index":48,"entity_id":14533,"entity_attributes":{"name":"India"}}
+{"index":49,"entity_id":14579,"entity_attributes":{"name":"Indonesia"}}
+{"index":50,"entity_id":14653,"entity_attributes":{"name":"Iran"}}
+{"index":51,"entity_id":15245,"entity_attributes":{"name":"Ismail Khan"}}
+{"index":52,"entity_id":15573,"entity_attributes":{"name":"Japan"}}
+{"index":53,"entity_id":16642,"entity_attributes":{"name":"Kazakhstan"}}
+{"index":54,"entity_id":17514,"entity_attributes":{"name":"Latvia"}}
+{"index":55,"entity_id":17515,"entity_attributes":{"name":"Luxembourg"}}
+{"index":56,"entity_id":17633,"entity_attributes":{"name":"Libya"}}
+{"index":57,"entity_id":17675,"entity_attributes":{"name":"Lithuania"}}
+{"index":58,"entity_id":17771,"entity_attributes":{"name":"Lebanon"}}
+{"index":59,"entity_id":17779,"entity_attributes":{"name":"Lebanese Armed Forces"}}
+{"index":60,"entity_id":17791,"entity_attributes":{"name":"Liberia"}}
+{"index":61,"entity_id":17799,"entity_attributes":{"name":"Armed Forces of Liberia"}}
+{"index":62,"entity_id":17808,"entity_attributes":{"name":"Armed Forces of the Libyan Arab Jamahiriya"}}
+{"index":63,"entity_id":18606,"entity_attributes":{"name":"Liberation Tigers of Tamil Eelam"}}
+{"index":64,"entity_id":19088,"entity_attributes":{"name":"Malawi"}}
+{"index":65,"entity_id":19127,"entity_attributes":{"name":"Mali"}}
+{"index":66,"entity_id":19291,"entity_attributes":{"name":"Morocco"}}
+{"index":67,"entity_id":19457,"entity_attributes":{"name":"Myanmar"}}
+{"index":68,"entity_id":19655,"entity_attributes":{"name":"May 23"}}
+{"index":69,"entity_id":20182,"entity_attributes":{"name":"Afghan Armed Forces"}}
+{"index":70,"entity_id":20742,"entity_attributes":{"name":"Muslim Brotherhood"}}
+{"index":71,"entity_id":20760,"entity_attributes":{"name":"Montenegro"}}
+{"index":72,"entity_id":21133,"entity_attributes":{"name":"NATO"}}
+{"index":73,"entity_id":21148,"entity_attributes":{"name":"Netherlands"}}
+{"index":74,"entity_id":21241,"entity_attributes":{"name":"Norway"}}
+{"index":75,"entity_id":21255,"entity_attributes":{"name":"North Korea"}}
+{"index":76,"entity_id":21373,"entity_attributes":{"name":"Niger"}}
+{"index":77,"entity_id":21383,"entity_attributes":{"name":"Nigeria"}}
+{"index":78,"entity_id":21391,"entity_attributes":{"name":"Nigerian Armed Forces"}}
+{"index":79,"entity_id":22316,"entity_attributes":{"name":"Oman"}}
+{"index":80,"entity_id":22738,"entity_attributes":{"name":"Operation Enduring Freedom"}}
+{"index":81,"entity_id":22936,"entity_attributes":{"name":"Poland"}}
+{"index":82,"entity_id":22943,"entity_attributes":{"name":"Papua New Guinea"}}
+{"index":83,"entity_id":23033,"entity_attributes":{"name":"Portugal"}}
+{"index":84,"entity_id":23235,"entity_attributes":{"name":"Pakistan"}}
+{"index":85,"entity_id":23369,"entity_attributes":{"name":"Pakistan Armed Forces"}}
+{"index":86,"entity_id":23420,"entity_attributes":{"name":"Paraguay"}}
+{"index":87,"entity_id":23440,"entity_attributes":{"name":"Philippines"}}
+{"index":88,"entity_id":23444,"entity_attributes":{"name":"Politics of the Philippines"}}
+{"index":89,"entity_id":23448,"entity_attributes":{"name":"Armed Forces of the Philippines"}}
+{"index":90,"entity_id":23943,"entity_attributes":{"name":"Palestine"}}
+{"index":91,"entity_id":24093,"entity_attributes":{"name":"Palestinian National Authority"}}
+{"index":92,"entity_id":24324,"entity_attributes":{"name":"Palestine Liberation Organization"}}
+{"index":93,"entity_id":25391,"entity_attributes":{"name":"Russia"}}
+{"index":94,"entity_id":25445,"entity_attributes":{"name":"Romania"}}
+{"index":95,"entity_id":25645,"entity_attributes":{"name":"Rwanda"}}
+{"index":96,"entity_id":25679,"entity_attributes":{"name":"Royal Air Force"}}
+{"index":97,"entity_id":26100,"entity_attributes":{"name":"Revolutionary Armed Forces of Colombia"}}
+{"index":98,"entity_id":26667,"entity_attributes":{"name":"Spain"}}
+{"index":99,"entity_id":26748,"entity_attributes":{"name":"Switzerland"}}
+{"index":100,"entity_id":26750,"entity_attributes":{"name":"Sri Lanka"}}
+{"index":101,"entity_id":26779,"entity_attributes":{"name":"Soviet Union"}}
+{"index":102,"entity_id":26830,"entity_attributes":{"name":"Slovakia"}}
+{"index":103,"entity_id":27019,"entity_attributes":{"name":"South Korea"}}
+{"index":104,"entity_id":27278,"entity_attributes":{"name":"Senegal"}}
+{"index":105,"entity_id":27288,"entity_attributes":{"name":"Seychelles"}}
+{"index":106,"entity_id":27318,"entity_attributes":{"name":"Singapore"}}
+{"index":107,"entity_id":27338,"entity_attributes":{"name":"Slovenia"}}
+{"index":108,"entity_id":27358,"entity_attributes":{"name":"Somalia"}}
+{"index":109,"entity_id":27366,"entity_attributes":{"name":"Somali Armed Forces"}}
+{"index":110,"entity_id":27421,"entity_attributes":{"name":"Sudan"}}
+{"index":111,"entity_id":27429,"entity_attributes":{"name":"Sudanese Armed Forces"}}
+{"index":112,"entity_id":28246,"entity_attributes":{"name":"Sufism"}}
+{"index":113,"entity_id":28645,"entity_attributes":{"name":"Smuggling"}}
+{"index":114,"entity_id":29265,"entity_attributes":{"name":"Serbia"}}
+{"index":115,"entity_id":30108,"entity_attributes":{"name":"Tajikistan"}}
+{"index":116,"entity_id":30118,"entity_attributes":{"name":"Tanzania"}}
+{"index":117,"entity_id":30128,"entity_attributes":{"name":"Thailand"}}
+{"index":118,"entity_id":30136,"entity_attributes":{"name":"Royal Thai Armed Forces"}}
+{"index":119,"entity_id":30158,"entity_attributes":{"name":"Tonga"}}
+{"index":120,"entity_id":30188,"entity_attributes":{"name":"Tunisia"}}
+{"index":121,"entity_id":30205,"entity_attributes":{"name":"Turkish Armed Forces"}}
+{"index":122,"entity_id":30635,"entity_attributes":{"name":"Taliban"}}
+{"index":123,"entity_id":30680,"entity_attributes":{"name":"The New York Times"}}
+{"index":124,"entity_id":31717,"entity_attributes":{"name":"United Kingdom"}}
+{"index":125,"entity_id":31750,"entity_attributes":{"name":"Ukraine"}}
+{"index":126,"entity_id":31769,"entity_attributes":{"name":"United Nations"}}
+{"index":127,"entity_id":31816,"entity_attributes":{"name":"Uganda"}}
+{"index":128,"entity_id":31853,"entity_attributes":{"name":"Uzbekistan"}}
+{"index":129,"entity_id":32087,"entity_attributes":{"name":"United States Army"}}
+{"index":130,"entity_id":32090,"entity_attributes":{"name":"United States Air Force"}}
+{"index":131,"entity_id":32212,"entity_attributes":{"name":"United States Armed Forces"}}
+{"index":132,"entity_id":32374,"entity_attributes":{"name":"Venezuela"}}
+{"index":133,"entity_id":32443,"entity_attributes":{"name":"Vanuatu"}}
+{"index":134,"entity_id":33220,"entity_attributes":{"name":"Western Sahara"}}
+{"index":135,"entity_id":34252,"entity_attributes":{"name":"Republic of Yemen Armed Forces"}}
+{"index":136,"entity_id":34376,"entity_attributes":{"name":"Armed Forces of Serbia and Montenegro"}}
+{"index":137,"entity_id":34399,"entity_attributes":{"name":"Zimbabwe"}}
+{"index":138,"entity_id":34421,"entity_attributes":{"name":"Zaire"}}
+{"index":139,"entity_id":36870,"entity_attributes":{"name":"Commonwealth of Independent States"}}
+{"index":140,"entity_id":37778,"entity_attributes":{"name":"Tajiks"}}
+{"index":141,"entity_id":39237,"entity_attributes":{"name":"Israel Defense Forces"}}
+{"index":142,"entity_id":44431,"entity_attributes":{"name":"Biafra"}}
+{"index":143,"entity_id":44956,"entity_attributes":{"name":"Kosovo Liberation Army"}}
+{"index":144,"entity_id":46530,"entity_attributes":{"name":"Human Rights Watch"}}
+{"index":145,"entity_id":48192,"entity_attributes":{"name":"National Liberation Army"}}
+{"index":146,"entity_id":48755,"entity_attributes":{"name":"Neo-fascism"}}
+{"index":147,"entity_id":51425,"entity_attributes":{"name":"Somaliland"}}
+{"index":148,"entity_id":51673,"entity_attributes":{"name":"Moro Islamic Liberation Front"}}
+{"index":149,"entity_id":59537,"entity_attributes":{"name":"Hutu"}}
+{"index":150,"entity_id":65220,"entity_attributes":{"name":"Nagorno-Karabakh"}}
+{"index":151,"entity_id":66463,"entity_attributes":{"name":"Politics of Afghanistan"}}
+{"index":152,"entity_id":66890,"entity_attributes":{"name":"People's Liberation Army"}}
+{"index":153,"entity_id":67538,"entity_attributes":{"name":"Australian Defence Force"}}
+{"index":154,"entity_id":69328,"entity_attributes":{"name":"United Arab Emirates"}}
+{"index":155,"entity_id":69680,"entity_attributes":{"name":"Kurdistan Workers' Party"}}
+{"index":156,"entity_id":70767,"entity_attributes":{"name":"Iraqi National Congress"}}
+{"index":157,"entity_id":70789,"entity_attributes":{"name":"Patriotic Union of Kurdistan"}}
+{"index":158,"entity_id":73374,"entity_attributes":{"name":"Mercenary"}}
+{"index":159,"entity_id":76741,"entity_attributes":{"name":"Government of Colombia"}}
+{"index":160,"entity_id":76762,"entity_attributes":{"name":"Democratic Republic of the Congo"}}
+{"index":161,"entity_id":76972,"entity_attributes":{"name":"Denmark"}}
+{"index":162,"entity_id":78643,"entity_attributes":{"name":"Government of Venezuela"}}
+{"index":163,"entity_id":80777,"entity_attributes":{"name":"Kurdistan"}}
+{"index":164,"entity_id":85725,"entity_attributes":{"name":"Uni"}}
+{"index":165,"entity_id":102226,"entity_attributes":{"name":"The Washington Post"}}
+{"index":166,"entity_id":103100,"entity_attributes":{"name":"Jemaah Islamiyah"}}
+{"index":167,"entity_id":147372,"entity_attributes":{"name":"People's Armed Police"}}
+{"index":168,"entity_id":147575,"entity_attributes":{"name":"Ireland"}}
+{"index":169,"entity_id":166957,"entity_attributes":{"name":"Ba'ath Party"}}
+{"index":170,"entity_id":170131,"entity_attributes":{"name":"Kyrgyzstan"}}
+{"index":171,"entity_id":171166,"entity_attributes":{"name":"Nepal"}}
+{"index":172,"entity_id":174712,"entity_attributes":{"name":"Fifth Republic Movement"}}
+{"index":173,"entity_id":177451,"entity_attributes":{"name":"Spetsnaz"}}
+{"index":174,"entity_id":177909,"entity_attributes":{"name":"Progressive Socialist Party"}}
+{"index":175,"entity_id":184764,"entity_attributes":{"name":"The Jerusalem Post"}}
+{"index":176,"entity_id":184799,"entity_attributes":{"name":"Anjouan"}}
+{"index":177,"entity_id":187749,"entity_attributes":{"name":"Ethiopia"}}
+{"index":178,"entity_id":188171,"entity_attributes":{"name":"Kenya"}}
+{"index":179,"entity_id":194200,"entity_attributes":{"name":"International Security Assistance Force"}}
+{"index":180,"entity_id":195149,"entity_attributes":{"name":"Federal government of the United States"}}
+{"index":181,"entity_id":197015,"entity_attributes":{"name":"Drug cartel"}}
+{"index":182,"entity_id":198149,"entity_attributes":{"name":"Turkmenistan"}}
+{"index":183,"entity_id":199866,"entity_attributes":{"name":"Ansar al-Islam"}}
+{"index":184,"entity_id":201574,"entity_attributes":{"name":"Polisario Front"}}
+{"index":185,"entity_id":204633,"entity_attributes":{"name":"Fedayeen Saddam"}}
+{"index":186,"entity_id":208636,"entity_attributes":{"name":"Turkistan Islamic Party"}}
+{"index":187,"entity_id":212681,"entity_attributes":{"name":"Afghan National Army"}}
+{"index":188,"entity_id":214413,"entity_attributes":{"name":"Armenian diaspora"}}
+{"index":189,"entity_id":215609,"entity_attributes":{"name":"Ali Abdullah Saleh"}}
+{"index":190,"entity_id":233569,"entity_attributes":{"name":"Puntland"}}
+{"index":191,"entity_id":233729,"entity_attributes":{"name":"Tijuana Cartel"}}
+{"index":192,"entity_id":235688,"entity_attributes":{"name":"Daily Mirror"}}
+{"index":193,"entity_id":245423,"entity_attributes":{"name":"UNITA"}}
+{"index":194,"entity_id":265083,"entity_attributes":{"name":"Solomon Islands"}}
+{"index":195,"entity_id":274262,"entity_attributes":{"name":"Private military company"}}
+{"index":196,"entity_id":284376,"entity_attributes":{"name":"SWAPO"}}
+{"index":197,"entity_id":285632,"entity_attributes":{"name":"People's Mujahedin of Iran"}}
+{"index":198,"entity_id":286105,"entity_attributes":{"name":"Bolivarian Circles"}}
+{"index":199,"entity_id":291717,"entity_attributes":{"name":"Islamic State of Afghanistan"}}
+{"index":200,"entity_id":294118,"entity_attributes":{"name":"Ertzaintza"}}
+{"index":201,"entity_id":298010,"entity_attributes":{"name":"Revolutionary United Front"}}
+{"index":202,"entity_id":307675,"entity_attributes":{"name":"Ossetians"}}
+{"index":203,"entity_id":318381,"entity_attributes":{"name":"South Ossetia"}}
+{"index":204,"entity_id":319778,"entity_attributes":{"name":"Free Aceh Movement"}}
+{"index":205,"entity_id":332667,"entity_attributes":{"name":"Islamic Emirate of Afghanistan"}}
+{"index":206,"entity_id":334751,"entity_attributes":{"name":"Cambodia"}}
+{"index":207,"entity_id":341221,"entity_attributes":{"name":"Australian Federal Police"}}
+{"index":208,"entity_id":349303,"entity_attributes":{"name":"Saudi Arabia"}}
+{"index":209,"entity_id":350939,"entity_attributes":{"name":"Yemen"}}
+{"index":210,"entity_id":365009,"entity_attributes":{"name":"National Guard"}}
+{"index":211,"entity_id":371256,"entity_attributes":{"name":"Khorasan Province"}}
+{"index":212,"entity_id":377433,"entity_attributes":{"name":"Pakistan Air Force"}}
+{"index":213,"entity_id":380353,"entity_attributes":{"name":"Armenian Soviet Socialist Republic"}}
+{"index":214,"entity_id":386473,"entity_attributes":{"name":"Shamil Basayev"}}
+{"index":215,"entity_id":389363,"entity_attributes":{"name":"Islamic Movement of Uzbekistan"}}
+{"index":216,"entity_id":404448,"entity_attributes":{"name":"Azerbaijan Soviet Socialist Republic"}}
+{"index":217,"entity_id":408215,"entity_attributes":{"name":"Communist Party of India"}}
+{"index":218,"entity_id":408677,"entity_attributes":{"name":"Nagaland"}}
+{"index":219,"entity_id":409121,"entity_attributes":{"name":"List of political parties in Venezuela"}}
+{"index":220,"entity_id":412540,"entity_attributes":{"name":"Somali Democratic Republic"}}
+{"index":221,"entity_id":427806,"entity_attributes":{"name":"United States special operations forces"}}
+{"index":222,"entity_id":453329,"entity_attributes":{"name":"Arab tribes in Iraq"}}
+{"index":223,"entity_id":455441,"entity_attributes":{"name":"Jamaat Ansar al-Sunna"}}
+{"index":224,"entity_id":466160,"entity_attributes":{"name":"Akwa Ibom State"}}
+{"index":225,"entity_id":471981,"entity_attributes":{"name":"Agence France-Presse"}}
+{"index":226,"entity_id":474042,"entity_attributes":{"name":"Karachay-Cherkessia"}}
+{"index":227,"entity_id":478947,"entity_attributes":{"name":"Popular Resistance Committees"}}
+{"index":228,"entity_id":489124,"entity_attributes":{"name":"National Revolutionary Front for the Liberation of Haiti"}}
+{"index":229,"entity_id":493361,"entity_attributes":{"name":"Sagaing Region"}}
+{"index":230,"entity_id":518768,"entity_attributes":{"name":"Hezbi Islami"}}
+{"index":231,"entity_id":541409,"entity_attributes":{"name":"Free Papua Movement"}}
+{"index":232,"entity_id":553883,"entity_attributes":{"name":"Government of India"}}
+{"index":233,"entity_id":566821,"entity_attributes":{"name":"Islamic terrorism"}}
+{"index":234,"entity_id":600792,"entity_attributes":{"name":"Close air support"}}
+{"index":235,"entity_id":607504,"entity_attributes":{"name":"Executive Outcomes"}}
+{"index":236,"entity_id":611381,"entity_attributes":{"name":"Ondo State"}}
+{"index":237,"entity_id":642175,"entity_attributes":{"name":"National Liberation Front of Tripura"}}
+{"index":238,"entity_id":649718,"entity_attributes":{"name":"Lashkar-e-Taiba"}}
+{"index":239,"entity_id":672930,"entity_attributes":{"name":"Delta State"}}
+{"index":240,"entity_id":679693,"entity_attributes":{"name":"Iraqi Kurdistan"}}
+{"index":241,"entity_id":683270,"entity_attributes":{"name":"Janjaweed"}}
+{"index":242,"entity_id":718749,"entity_attributes":{"name":"South Yemen"}}
+{"index":243,"entity_id":747345,"entity_attributes":{"name":"Tanzim"}}
+{"index":244,"entity_id":748820,"entity_attributes":{"name":"Jama'at al-Tawhid wal-Jihad"}}
+{"index":245,"entity_id":751099,"entity_attributes":{"name":"Dagestan"}}
+{"index":246,"entity_id":797702,"entity_attributes":{"name":"Ingushetia"}}
+{"index":247,"entity_id":817725,"entity_attributes":{"name":"Kabardino-Balkaria"}}
+{"index":248,"entity_id":841673,"entity_attributes":{"name":"Macedonia"}}
+{"index":249,"entity_id":896126,"entity_attributes":{"name":"Tablighi Jamaat"}}
+{"index":250,"entity_id":899044,"entity_attributes":{"name":"Peshmerga"}}
+{"index":251,"entity_id":905817,"entity_attributes":{"name":"Abia State"}}
+{"index":252,"entity_id":905857,"entity_attributes":{"name":"Cross River State"}}
+{"index":253,"entity_id":928722,"entity_attributes":{"name":"RFE"}}
+{"index":254,"entity_id":948638,"entity_attributes":{"name":"Derg"}}
+{"index":255,"entity_id":1015555,"entity_attributes":{"name":"MONUSCO"}}
+{"index":256,"entity_id":1019774,"entity_attributes":{"name":"Somali Salvation Democratic Front"}}
+{"index":257,"entity_id":1088385,"entity_attributes":{"name":"Islamic Army in Iraq"}}
+{"index":258,"entity_id":1133944,"entity_attributes":{"name":"Royal Bhutan Army"}}
+{"index":259,"entity_id":1179127,"entity_attributes":{"name":"Kuban Cossacks"}}
+{"index":260,"entity_id":1181356,"entity_attributes":{"name":"National Council of Resistance of Iran"}}
+{"index":261,"entity_id":1183789,"entity_attributes":{"name":"Pakistan Navy"}}
+{"index":262,"entity_id":1188322,"entity_attributes":{"name":"Jos"}}
+{"index":263,"entity_id":1199752,"entity_attributes":{"name":"Mai-Mai"}}
+{"index":264,"entity_id":1200377,"entity_attributes":{"name":"Center for Security Policy"}}
+{"index":265,"entity_id":1241164,"entity_attributes":{"name":"SULFA"}}
+{"index":266,"entity_id":1246506,"entity_attributes":{"name":"Justice and Equality Movement"}}
+{"index":267,"entity_id":1258240,"entity_attributes":{"name":"Allied Democratic Forces"}}
+{"index":268,"entity_id":1260693,"entity_attributes":{"name":"Harkat-ul-Mujahideen"}}
+{"index":269,"entity_id":1276759,"entity_attributes":{"name":"Tigray People's Liberation Front"}}
+{"index":270,"entity_id":1312990,"entity_attributes":{"name":"National Police"}}
+{"index":271,"entity_id":1313055,"entity_attributes":{"name":"Philippine National Police"}}
+{"index":272,"entity_id":1320430,"entity_attributes":{"name":"Republic of West Papua"}}
+{"index":273,"entity_id":1337691,"entity_attributes":{"name":"Syrian Social Nationalist Party"}}
+{"index":274,"entity_id":1390015,"entity_attributes":{"name":"West Side Boys"}}
+{"index":275,"entity_id":1401135,"entity_attributes":{"name":"055 Brigade"}}
+{"index":276,"entity_id":1416994,"entity_attributes":{"name":"Mizo National Front"}}
+{"index":277,"entity_id":1484811,"entity_attributes":{"name":"Janatha Vimukthi Peramuna"}}
+{"index":278,"entity_id":1504778,"entity_attributes":{"name":"Kurdistan Islamic Movement"}}
+{"index":279,"entity_id":1517643,"entity_attributes":{"name":"Amal Movement"}}
+{"index":280,"entity_id":1529105,"entity_attributes":{"name":"Popular Revolutionary Army"}}
+{"index":281,"entity_id":1545177,"entity_attributes":{"name":"Georgia Train and Equip Program"}}
+{"index":282,"entity_id":1576797,"entity_attributes":{"name":"Iraqi Army"}}
+{"index":283,"entity_id":1608789,"entity_attributes":{"name":"National Police Corps"}}
+{"index":284,"entity_id":1646730,"entity_attributes":{"name":"Jund al-Sham"}}
+{"index":285,"entity_id":1662934,"entity_attributes":{"name":"Ogaden National Liberation Front"}}
+{"index":286,"entity_id":1676875,"entity_attributes":{"name":"Democratic Forces for the Liberation of Rwanda"}}
+{"index":287,"entity_id":1737554,"entity_attributes":{"name":"Transit Center at Manas"}}
+{"index":288,"entity_id":1749346,"entity_attributes":{"name":"War in Afghanistan"}}
+{"index":289,"entity_id":1754397,"entity_attributes":{"name":"People's Democratic Republic of Ethiopia"}}
+{"index":290,"entity_id":1785100,"entity_attributes":{"name":"Indian Peace Keeping Force"}}
+{"index":291,"entity_id":1873407,"entity_attributes":{"name":"Iparretarrak"}}
+{"index":292,"entity_id":1886592,"entity_attributes":{"name":"Islamic Movement of Afghanistan"}}
+{"index":293,"entity_id":1897833,"entity_attributes":{"name":"Government of Pakistan"}}
+{"index":294,"entity_id":1908022,"entity_attributes":{"name":"Government of Peru"}}
+{"index":295,"entity_id":1965925,"entity_attributes":{"name":"Pakistan Army"}}
+{"index":296,"entity_id":1966992,"entity_attributes":{"name":"Rivers State"}}
+{"index":297,"entity_id":2039914,"entity_attributes":{"name":"United Wa State Army"}}
+{"index":298,"entity_id":2076117,"entity_attributes":{"name":"Iraqi Police"}}
+{"index":299,"entity_id":2081585,"entity_attributes":{"name":"Rally of Democratic Forces"}}
+{"index":300,"entity_id":2099335,"entity_attributes":{"name":"Lebanese Communist Party"}}
+{"index":301,"entity_id":2142325,"entity_attributes":{"name":"Spanish Army"}}
+{"index":302,"entity_id":2159021,"entity_attributes":{"name":"Inter-Services Intelligence"}}
+{"index":303,"entity_id":2163060,"entity_attributes":{"name":"Jamiat-e Islami"}}
+{"index":304,"entity_id":2225578,"entity_attributes":{"name":"State Peace and Development Council"}}
+{"index":305,"entity_id":2227620,"entity_attributes":{"name":"Bayelsa State"}}
+{"index":306,"entity_id":2227627,"entity_attributes":{"name":"Edo State"}}
+{"index":307,"entity_id":2257545,"entity_attributes":{"name":"United National Liberation Front"}}
+{"index":308,"entity_id":2288455,"entity_attributes":{"name":"Northern Alliance"}}
+{"index":309,"entity_id":2326203,"entity_attributes":{"name":"Warsangali"}}
+{"index":310,"entity_id":2399882,"entity_attributes":{"name":"Isatabu Freedom Movement"}}
+{"index":311,"entity_id":2421391,"entity_attributes":{"name":"Bhutan"}}
+{"index":312,"entity_id":2545581,"entity_attributes":{"name":"Daily Nation"}}
+{"index":313,"entity_id":2631749,"entity_attributes":{"name":"Rapid Action Battalion"}}
+{"index":314,"entity_id":2635111,"entity_attributes":{"name":"Joint Special Operations Command"}}
+{"index":315,"entity_id":2642213,"entity_attributes":{"name":"Los Zetas"}}
+{"index":316,"entity_id":2673836,"entity_attributes":{"name":"Future Movement"}}
+{"index":317,"entity_id":2703270,"entity_attributes":{"name":"Party for Social Renewal"}}
+{"index":318,"entity_id":2816470,"entity_attributes":{"name":"Terrorism in Pakistan"}}
+{"index":319,"entity_id":2874177,"entity_attributes":{"name":"Patani United Liberation Organisation"}}
+{"index":320,"entity_id":2881379,"entity_attributes":{"name":"Barisan Revolusi Nasional"}}
+{"index":321,"entity_id":2905770,"entity_attributes":{"name":"Kurdistan Islamic Group"}}
+{"index":322,"entity_id":2928177,"entity_attributes":{"name":"Rahanweyn Resistance Army"}}
+{"index":323,"entity_id":2942891,"entity_attributes":{"name":"Tripura National Volunteers"}}
+{"index":324,"entity_id":3012980,"entity_attributes":{"name":"United Somali Congress"}}
+{"index":325,"entity_id":3057255,"entity_attributes":{"name":"Bloomberg News"}}
+{"index":326,"entity_id":3197182,"entity_attributes":{"name":"Democratic Party of Iranian Kurdistan"}}
+{"index":327,"entity_id":3252889,"entity_attributes":{"name":"Caucasian Front"}}
+{"index":328,"entity_id":3293496,"entity_attributes":{"name":"Sea Tigers"}}
+{"index":329,"entity_id":3294160,"entity_attributes":{"name":"Gulf Cartel"}}
+{"index":330,"entity_id":3299139,"entity_attributes":{"name":"Hezb-e Islami Gulbuddin"}}
+{"index":331,"entity_id":3373084,"entity_attributes":{"name":"Al-Mourabitoun"}}
+{"index":332,"entity_id":3434750,"entity_attributes":{"name":"United States"}}
+{"index":333,"entity_id":3482169,"entity_attributes":{"name":"Economic Community of Central African States"}}
+{"index":334,"entity_id":3488351,"entity_attributes":{"name":"People"}}
+{"index":335,"entity_id":3525430,"entity_attributes":{"name":"Rally for Democracy and Liberty"}}
+{"index":336,"entity_id":3571583,"entity_attributes":{"name":"United Front for Democratic Change"}}
+{"index":337,"entity_id":3607937,"entity_attributes":{"name":"Malaysia"}}
+{"index":338,"entity_id":3771075,"entity_attributes":{"name":"People's Revolutionary Party of Kangleipak"}}
+{"index":339,"entity_id":3779347,"entity_attributes":{"name":"Movement for the Emancipation of the Niger Delta"}}
+{"index":340,"entity_id":3804158,"entity_attributes":{"name":"Jaish al-Ta'ifa al-Mansurah"}}
+{"index":341,"entity_id":3885935,"entity_attributes":{"name":"National Movement for Reform and Development"}}
+{"index":342,"entity_id":3966054,"entity_attributes":{"name":"Mexico"}}
+{"index":343,"entity_id":3969667,"entity_attributes":{"name":"Kurdistan Free Life Party"}}
+{"index":344,"entity_id":4028355,"entity_attributes":{"name":"Quds Force"}}
+{"index":345,"entity_id":4042337,"entity_attributes":{"name":"Movement for Democracy and Justice in Chad"}}
+{"index":346,"entity_id":4054894,"entity_attributes":{"name":"Paramilitary forces of Pakistan"}}
+{"index":347,"entity_id":4055099,"entity_attributes":{"name":"Aden-Abyan Islamic Army"}}
+{"index":348,"entity_id":4144899,"entity_attributes":{"name":"Alliance for the Restoration of Peace and Counter-Terrorism"}}
+{"index":349,"entity_id":4322340,"entity_attributes":{"name":"Niger Delta People's Volunteer Force"}}
+{"index":350,"entity_id":4462025,"entity_attributes":{"name":"Niger Delta Vigilante"}}
+{"index":351,"entity_id":4491031,"entity_attributes":{"name":"Iraultza"}}
+{"index":352,"entity_id":4512092,"entity_attributes":{"name":"Taliban insurgency"}}
+{"index":353,"entity_id":4611195,"entity_attributes":{"name":"Pakistan Rangers"}}
+{"index":354,"entity_id":4689264,"entity_attributes":{"name":"Australia"}}
+{"index":355,"entity_id":4813888,"entity_attributes":{"name":"Basque National Liberation Movement"}}
+{"index":356,"entity_id":4858648,"entity_attributes":{"name":"Ethiopian People's Patriotic Front"}}
+{"index":357,"entity_id":4913064,"entity_attributes":{"name":"New Zealand"}}
+{"index":358,"entity_id":5013244,"entity_attributes":{"name":"People's Liberation Organisation of Tamil Eelam"}}
+{"index":359,"entity_id":5042481,"entity_attributes":{"name":"Cuba"}}
+{"index":360,"entity_id":5042916,"entity_attributes":{"name":"Canada"}}
+{"index":361,"entity_id":5058739,"entity_attributes":{"name":"Sweden"}}
+{"index":362,"entity_id":5140508,"entity_attributes":{"name":"Bodo Liberation Tigers Force"}}
+{"index":363,"entity_id":5171141,"entity_attributes":{"name":"History of Libya under Muammar Gaddafi"}}
+{"index":364,"entity_id":5183633,"entity_attributes":{"name":"Central Intelligence Agency"}}
+{"index":365,"entity_id":5217236,"entity_attributes":{"name":"Nepalese Army Air Service"}}
+{"index":366,"entity_id":5326401,"entity_attributes":{"name":"Chechen Republic of Ichkeria"}}
+{"index":367,"entity_id":5428354,"entity_attributes":{"name":"Hashid"}}
+{"index":368,"entity_id":5435324,"entity_attributes":{"name":"Islamic Courts Union"}}
+{"index":369,"entity_id":5605323,"entity_attributes":{"name":"Nagorno-Karabakh Autonomous Oblast"}}
+{"index":370,"entity_id":5773650,"entity_attributes":{"name":"Hezbollah Al-Hejaz"}}
+{"index":371,"entity_id":5843419,"entity_attributes":{"name":"France"}}
+{"index":372,"entity_id":5844475,"entity_attributes":{"name":"Palestinian National Security Forces"}}
+{"index":373,"entity_id":6010135,"entity_attributes":{"name":"Balochistan Liberation Army"}}
+{"index":374,"entity_id":6120710,"entity_attributes":{"name":"Somali National Movement"}}
+{"index":375,"entity_id":6186841,"entity_attributes":{"name":"Sri Lanka Navy"}}
+{"index":376,"entity_id":6191478,"entity_attributes":{"name":"Fran"}}
+{"index":377,"entity_id":6223534,"entity_attributes":{"name":"Oromo Liberation Front"}}
+{"index":378,"entity_id":6266060,"entity_attributes":{"name":"Yemeni Air Force"}}
+{"index":379,"entity_id":6330819,"entity_attributes":{"name":"National Gendarmerie"}}
+{"index":380,"entity_id":6715199,"entity_attributes":{"name":"Sri Lanka Air Force"}}
+{"index":381,"entity_id":6758287,"entity_attributes":{"name":"Piracy in the Strait of Malacca"}}
+{"index":382,"entity_id":7003026,"entity_attributes":{"name":"African Union Mission to Somalia"}}
+{"index":383,"entity_id":7118299,"entity_attributes":{"name":"Operation Ring"}}
+{"index":384,"entity_id":7154470,"entity_attributes":{"name":"Kadyrovtsy"}}
+{"index":385,"entity_id":7278792,"entity_attributes":{"name":"National Police of Colombia"}}
+{"index":386,"entity_id":7281998,"entity_attributes":{"name":"Private militias in Iraq"}}
+{"index":387,"entity_id":7439782,"entity_attributes":{"name":"Tamil Eelam"}}
+{"index":388,"entity_id":7515849,"entity_attributes":{"name":"Syria"}}
+{"index":389,"entity_id":7515890,"entity_attributes":{"name":"Kuwait"}}
+{"index":390,"entity_id":7515928,"entity_attributes":{"name":"Iraq"}}
+{"index":391,"entity_id":7515964,"entity_attributes":{"name":"Jordan"}}
+{"index":392,"entity_id":7575877,"entity_attributes":{"name":"Union of Forces for Democracy and Development"}}
+{"index":393,"entity_id":7826589,"entity_attributes":{"name":"Jihadism"}}
+{"index":394,"entity_id":8087628,"entity_attributes":{"name":"Egypt"}}
+{"index":395,"entity_id":8089426,"entity_attributes":{"name":"Somali National Alliance"}}
+{"index":396,"entity_id":8205148,"entity_attributes":{"name":"Kale borroka"}}
+{"index":397,"entity_id":8238258,"entity_attributes":{"name":"Qatar"}}
+{"index":398,"entity_id":8295736,"entity_attributes":{"name":"Warriors of Christ the King"}}
+{"index":399,"entity_id":8609912,"entity_attributes":{"name":"Galmudug"}}
+{"index":400,"entity_id":8640599,"entity_attributes":{"name":"Juba Valley Alliance"}}
+{"index":401,"entity_id":8678118,"entity_attributes":{"name":"Salafia Jihadia"}}
+{"index":402,"entity_id":8727876,"entity_attributes":{"name":"Somali National Front"}}
+{"index":403,"entity_id":8802974,"entity_attributes":{"name":"Afar Revolutionary Democratic Unity Front"}}
+{"index":404,"entity_id":8862873,"entity_attributes":{"name":"Syrians"}}
+{"index":405,"entity_id":8947933,"entity_attributes":{"name":"Sipah-e-Sahaba Pakistan"}}
+{"index":406,"entity_id":9087364,"entity_attributes":{"name":"Islamic State of Iraq and the Levant"}}
+{"index":407,"entity_id":9195772,"entity_attributes":{"name":"Soldiers of Heaven"}}
+{"index":408,"entity_id":9282173,"entity_attributes":{"name":"Israel"}}
+{"index":409,"entity_id":9347800,"entity_attributes":{"name":"United States Africa Command"}}
+{"index":410,"entity_id":9371583,"entity_attributes":{"name":"Law enforcement in Pakistan"}}
+{"index":411,"entity_id":9450702,"entity_attributes":{"name":"Forces for Renewal"}}
+{"index":412,"entity_id":9519693,"entity_attributes":{"name":"Participants in Operation Enduring Freedom"}}
+{"index":413,"entity_id":9794248,"entity_attributes":{"name":"Al-Qaeda in the Arabian Peninsula"}}
+{"index":414,"entity_id":10429702,"entity_attributes":{"name":"Frontier Corps"}}
+{"index":415,"entity_id":10593562,"entity_attributes":{"name":"Salafist Group for Preaching and Combat"}}
+{"index":416,"entity_id":10634933,"entity_attributes":{"name":"African Union"}}
+{"index":417,"entity_id":10832740,"entity_attributes":{"name":"Baluch Liberation Front"}}
+{"index":418,"entity_id":10867754,"entity_attributes":{"name":"Irrintzi"}}
+{"index":419,"entity_id":10918072,"entity_attributes":{"name":"Armenia"}}
+{"index":420,"entity_id":11125639,"entity_attributes":{"name":"Turkey"}}
+{"index":421,"entity_id":11320004,"entity_attributes":{"name":"Fatah al-Islam"}}
+{"index":422,"entity_id":11401226,"entity_attributes":{"name":"Sons of Iraq"}}
+{"index":423,"entity_id":11415404,"entity_attributes":{"name":"Islamic Jihad Union"}}
+{"index":424,"entity_id":11486556,"entity_attributes":{"name":"Police of Serbia"}}
+{"index":425,"entity_id":11592852,"entity_attributes":{"name":"Arab Democratic Party"}}
+{"index":426,"entity_id":11697735,"entity_attributes":{"name":"Civil Guard"}}
+{"index":427,"entity_id":11760475,"entity_attributes":{"name":"Royal Bhutan Police"}}
+{"index":428,"entity_id":11959956,"entity_attributes":{"name":"Internal Security Forces"}}
+{"index":429,"entity_id":11962570,"entity_attributes":{"name":"Adivasi Cobra Force"}}
+{"index":430,"entity_id":12241100,"entity_attributes":{"name":"Dima Halam Daogah"}}
+{"index":431,"entity_id":12338572,"entity_attributes":{"name":"Special Services Wing"}}
+{"index":432,"entity_id":12593188,"entity_attributes":{"name":"Nepali Army"}}
+{"index":433,"entity_id":12745881,"entity_attributes":{"name":"Imo State"}}
+{"index":434,"entity_id":12774849,"entity_attributes":{"name":"Congolese National Liberation Front"}}
+{"index":435,"entity_id":13035534,"entity_attributes":{"name":"Hamas of Iraq"}}
+{"index":436,"entity_id":13093253,"entity_attributes":{"name":"Islamic Jihad Movement in Palestine"}}
+{"index":437,"entity_id":13113521,"entity_attributes":{"name":"Niger Movement for Justice"}}
+{"index":438,"entity_id":13232219,"entity_attributes":{"name":"Alliance for the Re-liberation of Somalia"}}
+{"index":439,"entity_id":13327465,"entity_attributes":{"name":"Afghan National Police"}}
+{"index":440,"entity_id":13412132,"entity_attributes":{"name":"Royal Thai Marine Corps"}}
+{"index":441,"entity_id":13698067,"entity_attributes":{"name":"Supreme Command for Jihad and Liberation"}}
+{"index":442,"entity_id":14145690,"entity_attributes":{"name":"Malcolm Nance"}}
+{"index":443,"entity_id":14204350,"entity_attributes":{"name":"Khorasan"}}
+{"index":444,"entity_id":14305018,"entity_attributes":{"name":"Armed Forces of the Islamic Republic of Iran"}}
+{"index":445,"entity_id":14338598,"entity_attributes":{"name":"Royal Thai Police"}}
+{"index":446,"entity_id":14833748,"entity_attributes":{"name":"Nepal Police"}}
+{"index":447,"entity_id":14912557,"entity_attributes":{"name":"Caucasus Emirate"}}
+{"index":448,"entity_id":15484477,"entity_attributes":{"name":"Lebanese Democratic Party"}}
+{"index":449,"entity_id":15498292,"entity_attributes":{"name":"Islamic International Peacekeeping Brigade"}}
+{"index":450,"entity_id":15536335,"entity_attributes":{"name":"Multinational Division Central-South"}}
+{"index":451,"entity_id":15552650,"entity_attributes":{"name":"Battle of N'Djamena"}}
+{"index":452,"entity_id":15638998,"entity_attributes":{"name":"Arab Mujahideen in Chechnya"}}
+{"index":453,"entity_id":15796070,"entity_attributes":{"name":"Vilayat Galgaycho"}}
+{"index":454,"entity_id":16293969,"entity_attributes":{"name":"National Socialist Council of Nagaland"}}
+{"index":455,"entity_id":16663159,"entity_attributes":{"name":"Kataib al-Khoul"}}
+{"index":456,"entity_id":16881931,"entity_attributes":{"name":"Sinaloa Cartel"}}
+{"index":457,"entity_id":16998586,"entity_attributes":{"name":"Sabaot Land Defence Force"}}
+{"index":458,"entity_id":17015903,"entity_attributes":{"name":"Piracy off the coast of Somalia"}}
+{"index":459,"entity_id":17029497,"entity_attributes":{"name":"Pakistan Marines"}}
+{"index":460,"entity_id":17052695,"entity_attributes":{"name":"Lashkar-e-Islam"}}
+{"index":461,"entity_id":17207794,"entity_attributes":{"name":"Djibouti"}}
+{"index":462,"entity_id":17238515,"entity_attributes":{"name":"Georgia"}}
+{"index":463,"entity_id":17238590,"entity_attributes":{"name":"Eritrea"}}
+{"index":464,"entity_id":17349325,"entity_attributes":{"name":"United States Marine Corps"}}
+{"index":465,"entity_id":17349645,"entity_attributes":{"name":"Mujahideen Shura Council"}}
+{"index":466,"entity_id":17416221,"entity_attributes":{"name":"South Africa"}}
+{"index":467,"entity_id":17518909,"entity_attributes":{"name":"Eastern Shura"}}
+{"index":468,"entity_id":17873743,"entity_attributes":{"name":"Lord's Resistance Army"}}
+{"index":469,"entity_id":18305760,"entity_attributes":{"name":"Mujahideen"}}
+{"index":470,"entity_id":18681435,"entity_attributes":{"name":"Bakassi Movement for Self-Determination"}}
+{"index":471,"entity_id":18778516,"entity_attributes":{"name":"Mauritania"}}
+{"index":472,"entity_id":18933277,"entity_attributes":{"name":"Bahrain"}}
+{"index":473,"entity_id":18933375,"entity_attributes":{"name":"Abkhazia"}}
+{"index":474,"entity_id":18953699,"entity_attributes":{"name":"Tehrik-i-Taliban Pakistan"}}
+{"index":475,"entity_id":19426382,"entity_attributes":{"name":"Law enforcement in Mexico"}}
+{"index":476,"entity_id":19468532,"entity_attributes":{"name":"House of Representatives"}}
+{"index":477,"entity_id":19522007,"entity_attributes":{"name":"Bangladesh Police"}}
+{"index":478,"entity_id":19529703,"entity_attributes":{"name":"War in North-West Pakistan order of battle"}}
+{"index":479,"entity_id":19580896,"entity_attributes":{"name":"All Tripura Tiger Force"}}
+{"index":480,"entity_id":19975146,"entity_attributes":{"name":"National Congress for the Defence of the People"}}
+{"index":481,"entity_id":20542620,"entity_attributes":{"name":"Riyad-us Saliheen Brigade of Martyrs"}}
+{"index":482,"entity_id":20583872,"entity_attributes":{"name":"Karbi Longri N.C. Hills Liberation Front"}}
+{"index":483,"entity_id":21017661,"entity_attributes":{"name":"Baloch nationalism"}}
+{"index":484,"entity_id":21421637,"entity_attributes":{"name":"Tehreek-e-Nafaz-e-Shariat-e-Mohammadi"}}
+{"index":485,"entity_id":21462079,"entity_attributes":{"name":"Hizbul Islam"}}
+{"index":486,"entity_id":21484846,"entity_attributes":{"name":"Haqqani network"}}
+{"index":487,"entity_id":21490998,"entity_attributes":{"name":"Burundi"}}
+{"index":488,"entity_id":21856130,"entity_attributes":{"name":"Elite Police"}}
+{"index":489,"entity_id":21913090,"entity_attributes":{"name":"Combatants of the Iraq War"}}
+{"index":490,"entity_id":22695550,"entity_attributes":{"name":"Mukhrovani"}}
+{"index":491,"entity_id":22983080,"entity_attributes":{"name":"Muaskar Anole"}}
+{"index":492,"entity_id":23018226,"entity_attributes":{"name":"Ras Kamboni Brigades"}}
+{"index":493,"entity_id":23118283,"entity_attributes":{"name":"National Army for the Liberation of Uganda"}}
+{"index":494,"entity_id":23219543,"entity_attributes":{"name":"Jikany Nuer"}}
+{"index":495,"entity_id":23289165,"entity_attributes":{"name":"La Familia Michoacana"}}
+{"index":496,"entity_id":23376485,"entity_attributes":{"name":"Union of Resistance Forces"}}
+{"index":497,"entity_id":23384265,"entity_attributes":{"name":"Mexican Armed Forces"}}
+{"index":498,"entity_id":23402634,"entity_attributes":{"name":"Lashkar-e-Jhangvi"}}
+{"index":499,"entity_id":23564616,"entity_attributes":{"name":"North Macedonia"}}
+{"index":500,"entity_id":23626646,"entity_attributes":{"name":"Kata'ib Hezbollah"}}
+{"index":501,"entity_id":23769768,"entity_attributes":{"name":"Boko Haram"}}
+{"index":502,"entity_id":23916689,"entity_attributes":{"name":"Hezbe Wahdat"}}
+{"index":503,"entity_id":23988695,"entity_attributes":{"name":"Muslim United Liberation Tigers of Assam"}}
+{"index":504,"entity_id":23995791,"entity_attributes":{"name":"Jund Ansar Allah"}}
+{"index":505,"entity_id":24457252,"entity_attributes":{"name":"Afghan National Security Forces"}}
+{"index":506,"entity_id":24930943,"entity_attributes":{"name":"Federal government of Mexico"}}
+{"index":507,"entity_id":25380421,"entity_attributes":{"name":"People's Liberation Army of Manipur"}}
+{"index":508,"entity_id":25537178,"entity_attributes":{"name":"Resistance Patriots of Dongo"}}
+{"index":509,"entity_id":25539959,"entity_attributes":{"name":"Ahlu Sunna Waljama'a"}}
+{"index":510,"entity_id":25604038,"entity_attributes":{"name":"Quetta Shura"}}
+{"index":511,"entity_id":25659771,"entity_attributes":{"name":"Kurdistan Democratic Party"}}
+{"index":512,"entity_id":25964521,"entity_attributes":{"name":"Frontier Constabulary"}}
+{"index":513,"entity_id":26091881,"entity_attributes":{"name":"Southern Movement"}}
+{"index":514,"entity_id":26105741,"entity_attributes":{"name":"Promised Day Brigade"}}
+{"index":515,"entity_id":26106154,"entity_attributes":{"name":"Asa'ib Ahl al-Haq"}}
+{"index":516,"entity_id":26215470,"entity_attributes":{"name":"Ba'athist Iraq"}}
+{"index":517,"entity_id":26232439,"entity_attributes":{"name":"Zomi Revolutionary Army"}}
+{"index":518,"entity_id":26568072,"entity_attributes":{"name":"General People's Congress"}}
+{"index":519,"entity_id":26765428,"entity_attributes":{"name":"Shura-e Nazar"}}
+{"index":520,"entity_id":26835464,"entity_attributes":{"name":"Muhammad Rasul"}}
+{"index":521,"entity_id":26964606,"entity_attributes":{"name":"Austria"}}
+{"index":522,"entity_id":27145721,"entity_attributes":{"name":"Iraqi security forces"}}
+{"index":523,"entity_id":27592271,"entity_attributes":{"name":"Jabhatul Islamiya"}}
+{"index":524,"entity_id":27645462,"entity_attributes":{"name":"Baloch Republican Army"}}
+{"index":525,"entity_id":27754208,"entity_attributes":{"name":"Army of the Men of the Naqshbandi Order"}}
+{"index":526,"entity_id":28222445,"entity_attributes":{"name":"Estonia"}}
+{"index":527,"entity_id":28884400,"entity_attributes":{"name":"Milenio Cartel"}}
+{"index":528,"entity_id":29276712,"entity_attributes":{"name":"Acci"}}
+{"index":529,"entity_id":29358772,"entity_attributes":{"name":"Hynniewtrep National Liberation Council"}}
+{"index":530,"entity_id":29468661,"entity_attributes":{"name":"Abdrabbuh Mansur Hadi"}}
+{"index":531,"entity_id":30490895,"entity_attributes":{"name":"Deshapremi Janatha Viyaparaya"}}
+{"index":532,"entity_id":30798271,"entity_attributes":{"name":"Liberation and Justice Movement"}}
+{"index":533,"entity_id":30864251,"entity_attributes":{"name":"Malaita Eagle Force"}}
+{"index":534,"entity_id":30875850,"entity_attributes":{"name":"Al-Qaeda in the Islamic Maghreb"}}
+{"index":535,"entity_id":30973393,"entity_attributes":{"name":"Puntland Intelligence Agency"}}
+{"index":536,"entity_id":30975423,"entity_attributes":{"name":"Police of Russia"}}
+{"index":537,"entity_id":31018476,"entity_attributes":{"name":"Anti-Gaddafi forces"}}
+{"index":538,"entity_id":31167279,"entity_attributes":{"name":"Cabinet of Yemen"}}
+{"index":539,"entity_id":31169882,"entity_attributes":{"name":"Raskamboni Movement"}}
+{"index":540,"entity_id":31411846,"entity_attributes":{"name":"Royal Solomon Islands Police Force"}}
+{"index":541,"entity_id":31560013,"entity_attributes":{"name":"Democratic Revolutionary Council"}}
+{"index":542,"entity_id":31725421,"entity_attributes":{"name":"Chhattisgarh Police"}}
+{"index":543,"entity_id":31927499,"entity_attributes":{"name":"Knights Templar Cartel"}}
+{"index":544,"entity_id":32131564,"entity_attributes":{"name":"Special Service Group"}}
+{"index":545,"entity_id":32350676,"entity_attributes":{"name":"South Sudan"}}
+{"index":546,"entity_id":32745522,"entity_attributes":{"name":"United People's Democratic Solidarity"}}
+{"index":547,"entity_id":33653498,"entity_attributes":{"name":"Ansar al-Sharia"}}
+{"index":548,"entity_id":33737886,"entity_attributes":{"name":"Sudan Revolutionary Front"}}
+{"index":549,"entity_id":34929376,"entity_attributes":{"name":"Al-Nusra Front"}}
+{"index":550,"entity_id":34959730,"entity_attributes":{"name":"Movement for Oneness and Jihad in West Africa"}}
+{"index":551,"entity_id":34991043,"entity_attributes":{"name":"Paraguayan People's Army"}}
+{"index":552,"entity_id":35006872,"entity_attributes":{"name":"Jalisco New Generation Cartel"}}
+{"index":553,"entity_id":35175793,"entity_attributes":{"name":"Ansar Dine"}}
+{"index":554,"entity_id":35256005,"entity_attributes":{"name":"Puntland Dervish Force"}}
+{"index":555,"entity_id":35392140,"entity_attributes":{"name":"Leonid Tibilov"}}
+{"index":556,"entity_id":35541996,"entity_attributes":{"name":"Toubou Front for the Salvation of Libya"}}
+{"index":557,"entity_id":35874309,"entity_attributes":{"name":"Mullah Dadullah Front"}}
+{"index":558,"entity_id":36056901,"entity_attributes":{"name":"Independent Cartel of Acapulco"}}
+{"index":559,"entity_id":36497032,"entity_attributes":{"name":"People's Protection Units"}}
+{"index":560,"entity_id":36817379,"entity_attributes":{"name":"Federal Government of Somalia"}}
+{"index":561,"entity_id":37979212,"entity_attributes":{"name":"Los Metros"}}
+{"index":562,"entity_id":38235695,"entity_attributes":{"name":"African-led International Support Mission to Mali"}}
+{"index":563,"entity_id":38286904,"entity_attributes":{"name":"Ansaru"}}
+{"index":564,"entity_id":38364812,"entity_attributes":{"name":"Jubaland"}}
+{"index":565,"entity_id":38762388,"entity_attributes":{"name":"Sahrawi Arab Democratic Republic"}}
+{"index":566,"entity_id":39127395,"entity_attributes":{"name":"National Defence Forces"}}
+{"index":567,"entity_id":39192809,"entity_attributes":{"name":"Niger Delta Liberation Front"}}
+{"index":568,"entity_id":39280286,"entity_attributes":{"name":"United Nations Multidimensional Integrated Stabilization Mission in Mali"}}
+{"index":569,"entity_id":39446246,"entity_attributes":{"name":"Kanglei Yawol Kanna Lup"}}
+{"index":570,"entity_id":39490756,"entity_attributes":{"name":"Popular Front for the Liberation of Palestine"}}
+{"index":571,"entity_id":39955935,"entity_attributes":{"name":"Islamic State of Iraq"}}
+{"index":572,"entity_id":40596311,"entity_attributes":{"name":"Iraqi insurgency"}}
+{"index":573,"entity_id":40850508,"entity_attributes":{"name":"Jundallah"}}
+{"index":574,"entity_id":40863691,"entity_attributes":{"name":"Al-Aqsa Martyrs' Brigades"}}
+{"index":575,"entity_id":41312023,"entity_attributes":{"name":"Civilian Joint Task Force"}}
+{"index":576,"entity_id":41487145,"entity_attributes":{"name":"Organization for the Islamic Revolution in the Arabian Peninsula"}}
+{"index":577,"entity_id":41857550,"entity_attributes":{"name":"Kangleipak Communist Party"}}
+{"index":578,"entity_id":42565979,"entity_attributes":{"name":"Vilayat Nokhchicho"}}
+{"index":579,"entity_id":43001917,"entity_attributes":{"name":"Maoist Communist Party of Manipur"}}
+{"index":580,"entity_id":43667081,"entity_attributes":{"name":"Rally of Democratic Forces of Guinea"}}
+{"index":581,"entity_id":43683467,"entity_attributes":{"name":"Dai Hong Dan incident"}}
+{"index":582,"entity_id":43797145,"entity_attributes":{"name":"Kamtapur Liberation Organisation"}}
+{"index":583,"entity_id":43811375,"entity_attributes":{"name":"National Democratic Alliance Army"}}
+{"index":584,"entity_id":43965682,"entity_attributes":{"name":"Chaambi Operations"}}
+{"index":585,"entity_id":44107893,"entity_attributes":{"name":"Runda Kumpulan Kecil"}}
+{"index":586,"entity_id":44120002,"entity_attributes":{"name":"Jaish ul-Adl"}}
+{"index":587,"entity_id":44173900,"entity_attributes":{"name":"Military activity of ISIL"}}
+{"index":588,"entity_id":44284567,"entity_attributes":{"name":"Jamaat-ul-Ahrar"}}
+{"index":589,"entity_id":44596915,"entity_attributes":{"name":"Artsakh"}}
+{"index":590,"entity_id":44742232,"entity_attributes":{"name":"Resolute Support Mission"}}
+{"index":591,"entity_id":44984997,"entity_attributes":{"name":"Multinational Joint Task Force"}}
+{"index":592,"entity_id":45204749,"entity_attributes":{"name":"United States Special Operations Command"}}
+{"index":593,"entity_id":45417217,"entity_attributes":{"name":"Myanmar National Democratic Alliance Army"}}
+{"index":594,"entity_id":45524713,"entity_attributes":{"name":"Covert Action Division"}}
+{"index":595,"entity_id":45671374,"entity_attributes":{"name":"Popular Mobilization Forces"}}
+{"index":596,"entity_id":46213555,"entity_attributes":{"name":"Islamic State of Iraq and the Levant in Libya"}}
+{"index":597,"entity_id":46411512,"entity_attributes":{"name":"Harakat Ansar Iran"}}
+{"index":598,"entity_id":46454353,"entity_attributes":{"name":"Ansar Al-Furqan"}}
+{"index":599,"entity_id":46636745,"entity_attributes":{"name":"Liwa Fatemiyoun"}}
+{"index":600,"entity_id":46876689,"entity_attributes":{"name":"Popular Committees"}}
+{"index":601,"entity_id":46897180,"entity_attributes":{"name":"United National Liberation Front of Western South East Asia"}}
+{"index":602,"entity_id":47172089,"entity_attributes":{"name":"Red Sea Afar Democratic Organisation"}}
+{"index":603,"entity_id":47591650,"entity_attributes":{"name":"Fidai Mahaz"}}
+{"index":604,"entity_id":48205248,"entity_attributes":{"name":"Syrian Democratic Forces"}}
+{"index":605,"entity_id":48893730,"entity_attributes":{"name":"United Baloch Army"}}
+{"index":606,"entity_id":49020788,"entity_attributes":{"name":"Indigenous People of Biafra"}}
+{"index":607,"entity_id":50205972,"entity_attributes":{"name":"Sudanese Awakening Revolutionary Council"}}
+{"index":608,"entity_id":50559711,"entity_attributes":{"name":"Niger Delta Avengers"}}
+{"index":609,"entity_id":51279323,"entity_attributes":{"name":"Supreme Political Council"}}
+{"index":610,"entity_id":52024291,"entity_attributes":{"name":"Niger Delta Greenland Justice Mandate"}}
+{"index":611,"entity_id":52852835,"entity_attributes":{"name":"Eritrean National Salvation Front"}}
+{"index":612,"entity_id":52869043,"entity_attributes":{"name":"Saho People's Democratic Movement"}}
+{"index":613,"entity_id":52875305,"entity_attributes":{"name":"Democratic Front for Eritrean Unity"}}
+{"index":614,"entity_id":52875526,"entity_attributes":{"name":"Democratic Movement for the Liberation of the Eritrean Kunama"}}
+{"index":615,"entity_id":53150866,"entity_attributes":{"name":"Islamic State in Somalia"}}
+{"index":616,"entity_id":53278971,"entity_attributes":{"name":"Kuki National Army"}}
+{"index":617,"entity_id":53401088,"entity_attributes":{"name":"Jama'at Nasr al-Islam wal Muslimin"}}
+{"index":618,"entity_id":53886111,"entity_attributes":{"name":"Imam Shamil Battalion"}}
+{"index":619,"entity_id":54251566,"entity_attributes":{"name":"Southern Transitional Council"}}
+{"index":620,"entity_id":54263323,"entity_attributes":{"name":"The Terrorists of Iraq"}}
+{"index":621,"entity_id":54722244,"entity_attributes":{"name":"Armed Peasant Association"}}
+{"index":622,"entity_id":55577612,"entity_attributes":{"name":"Islamic State in the Greater Sahara"}}
+{"index":623,"entity_id":56524477,"entity_attributes":{"name":"Security Belt"}}
+{"index":624,"entity_id":56640947,"entity_attributes":{"name":"Baqir Brigade"}}
+{"index":625,"entity_id":56694430,"entity_attributes":{"name":"Al-Ashtar Brigades"}}
+{"index":626,"entity_id":56718004,"entity_attributes":{"name":"Guardians of Religion Organization"}}
+{"index":627,"entity_id":57824112,"entity_attributes":{"name":"Sabireen Movement"}}
+{"index":628,"entity_id":58550278,"entity_attributes":{"name":"Ahvaz National Resistance"}}
+{"index":629,"entity_id":58699284,"entity_attributes":{"name":"National Police of Paraguay"}}
+{"index":630,"entity_id":59919543,"entity_attributes":{"name":"RTMC Reconnaissance Battalion"}}
+{"index":631,"entity_id":61369191,"entity_attributes":{"name":"Islamic State's Central Africa Province"}}
+{"index":632,"entity_id":62922090,"entity_attributes":{"name":"Santa Rosa de Lima Cartel"}}
+{"index":633,"entity_id":63023414,"entity_attributes":{"name":"Los Viagras"}}
+{"index":634,"entity_id":65896995,"entity_attributes":{"name":"Eagles of the Central Hills"}}
+{"index":635,"entity_id":65944638,"entity_attributes":{"name":"Mai-Mai Kyandenga"}}
+{"index":636,"entity_id":66235931,"entity_attributes":{"name":"Black Cat group"}}
+{"index":637,"entity_id":66402699,"entity_attributes":{"name":"Chad National Concord"}}
+{"index":638,"entity_id":66403024,"entity_attributes":{"name":"Union of Forces for Change and Democracy"}}
+{"index":639,"entity_id":66404293,"entity_attributes":{"name":"Popular Front for National Rebirth"}}
+{"index":640,"entity_id":5482,"entity_attributes":{"name":"Politics of the Central African Republic"}}
+{"index":641,"entity_id":5853,"entity_attributes":{"name":"Army of the Czech Republic"}}
+{"index":642,"entity_id":12065,"entity_attributes":{"name":"Defense Forces of Georgia"}}
+{"index":643,"entity_id":12190,"entity_attributes":{"name":"Politics of Guinea-Bissau"}}
+{"index":644,"entity_id":14131,"entity_attributes":{"name":"Hazaras"}}
+{"index":645,"entity_id":16660,"entity_attributes":{"name":"Kenya Defence Forces"}}
+{"index":646,"entity_id":19191,"entity_attributes":{"name":"M"}}
+{"index":647,"entity_id":21387,"entity_attributes":{"name":"Federal government of Nigeria"}}
+{"index":648,"entity_id":22986,"entity_attributes":{"name":"Politics"}}
+{"index":649,"entity_id":23428,"entity_attributes":{"name":"Armed Forces of Paraguay"}}
+{"index":650,"entity_id":27289,"entity_attributes":{"name":"Serbia and Montenegro"}}
+{"index":651,"entity_id":58325,"entity_attributes":{"name":"Vigilantism"}}
+{"index":652,"entity_id":149335,"entity_attributes":{"name":"AAA"}}
+{"index":653,"entity_id":167928,"entity_attributes":{"name":"Republican guard"}}
+{"index":654,"entity_id":182803,"entity_attributes":{"name":"Canadian Army"}}
+{"index":655,"entity_id":342131,"entity_attributes":{"name":"North Ossetia"}}
+{"index":656,"entity_id":347166,"entity_attributes":{"name":"MPLA"}}
+{"index":657,"entity_id":427063,"entity_attributes":{"name":"United Liberation Front of Asom"}}
+{"index":658,"entity_id":448079,"entity_attributes":{"name":"Khuzestan Province"}}
+{"index":659,"entity_id":451855,"entity_attributes":{"name":"Central Reserve Police Force"}}
+{"index":660,"entity_id":469639,"entity_attributes":{"name":"Liberians United for Reconciliation and Democracy"}}
+{"index":661,"entity_id":578961,"entity_attributes":{"name":"Peace Companies"}}
+{"index":662,"entity_id":589841,"entity_attributes":{"name":"Insurgency"}}
+{"index":663,"entity_id":622772,"entity_attributes":{"name":"Chechens"}}
+{"index":664,"entity_id":740220,"entity_attributes":{"name":"Special Activities Center"}}
+{"index":665,"entity_id":846251,"entity_attributes":{"name":"United States Naval Special Warfare Command"}}
+{"index":666,"entity_id":900249,"entity_attributes":{"name":"National Liberation Front of Angola"}}
+{"index":667,"entity_id":998498,"entity_attributes":{"name":"Gal"}}
+{"index":668,"entity_id":1000530,"entity_attributes":{"name":"Republic of Artsakh"}}
+{"index":669,"entity_id":1113713,"entity_attributes":{"name":"United Nations Operation in Somalia II"}}
+{"index":670,"entity_id":1154854,"entity_attributes":{"name":"Royal Netherlands Army"}}
+{"index":671,"entity_id":1262096,"entity_attributes":{"name":"New People's Army"}}
+{"index":672,"entity_id":1335473,"entity_attributes":{"name":"National Democratic Front of Boroland"}}
+{"index":673,"entity_id":1441792,"entity_attributes":{"name":"Badr Organization"}}
+{"index":674,"entity_id":1486011,"entity_attributes":{"name":"Insurgency in Northeast India"}}
+{"index":675,"entity_id":1500005,"entity_attributes":{"name":"Ministry of Defence"}}
+{"index":676,"entity_id":1530705,"entity_attributes":{"name":"Polish Land Forces"}}
+{"index":677,"entity_id":1799523,"entity_attributes":{"name":"Gendarmerie General Command"}}
+{"index":678,"entity_id":2105749,"entity_attributes":{"name":"Romanian Land Forces"}}
+{"index":679,"entity_id":2342752,"entity_attributes":{"name":"Border Guards Bangladesh"}}
+{"index":680,"entity_id":2377550,"entity_attributes":{"name":"Government of the Philippines"}}
+{"index":681,"entity_id":2485336,"entity_attributes":{"name":"Islamic Liberation Front of Patani"}}
+{"index":682,"entity_id":3285814,"entity_attributes":{"name":"1920 Revolution Brigades"}}
+{"index":683,"entity_id":4503010,"entity_attributes":{"name":"Transitional federal parliament of Somalia"}}
+{"index":684,"entity_id":5460470,"entity_attributes":{"name":"Transitional federal government of Somalia"}}
+{"index":685,"entity_id":5592225,"entity_attributes":{"name":"Harkat-ul-Jihad al-Islami"}}
+{"index":686,"entity_id":6784645,"entity_attributes":{"name":"Southern Sudan autonomous region"}}
+{"index":687,"entity_id":7429605,"entity_attributes":{"name":"Somali Patriotic Movement"}}
+{"index":688,"entity_id":8552361,"entity_attributes":{"name":"Interethnic Association for the Development of the Peruvian Rainforest"}}
+{"index":689,"entity_id":8828625,"entity_attributes":{"name":"Shariat Jamaat"}}
+{"index":690,"entity_id":11273902,"entity_attributes":{"name":"Multi-National Force West"}}
+{"index":691,"entity_id":11447628,"entity_attributes":{"name":"Abkhazian Armed Forces"}}
+{"index":692,"entity_id":12786576,"entity_attributes":{"name":"Tanzim Qaidat al-Jihad fi Bilad al-Rafidayn"}}
+{"index":693,"entity_id":12968316,"entity_attributes":{"name":"Al-Shabab"}}
+{"index":694,"entity_id":13888982,"entity_attributes":{"name":"Ministry of home affairs"}}
+{"index":695,"entity_id":14095229,"entity_attributes":{"name":"Palestinian Preventive Security"}}
+{"index":696,"entity_id":16055614,"entity_attributes":{"name":"Mohammad Yousuf"}}
+{"index":697,"entity_id":17240332,"entity_attributes":{"name":"Houthi movement"}}
+{"index":698,"entity_id":19196675,"entity_attributes":{"name":"South Sudan People's Defence Forces"}}
+{"index":699,"entity_id":20517709,"entity_attributes":{"name":"Border Patrol Police"}}
+{"index":700,"entity_id":20518076,"entity_attributes":{"name":"United States Navy"}}
+{"index":701,"entity_id":21475491,"entity_attributes":{"name":"Magdalo Faction"}}
+{"index":702,"entity_id":23408142,"entity_attributes":{"name":"Sri Lanka Armed Forces"}}
+{"index":703,"entity_id":25197884,"entity_attributes":{"name":"National Islamic Movement of Afghanistan"}}
+{"index":704,"entity_id":27344057,"entity_attributes":{"name":"Special group"}}
+{"index":705,"entity_id":28223609,"entity_attributes":{"name":"Inter University Students' Federation"}}
+{"index":706,"entity_id":30726095,"entity_attributes":{"name":"Muslim Brotherhood in Egypt"}}
+{"index":707,"entity_id":30747164,"entity_attributes":{"name":"SEAL Team Six"}}
+{"index":708,"entity_id":30871819,"entity_attributes":{"name":"Law enforcement agency"}}
+{"index":709,"entity_id":32595136,"entity_attributes":{"name":"Takfir wal-Hijra"}}
+{"index":710,"entity_id":36991518,"entity_attributes":{"name":"Autonomous Administration of North and East Syria"}}
+{"index":711,"entity_id":38264234,"entity_attributes":{"name":"European Union Training Mission in Mali"}}
+{"index":712,"entity_id":40479968,"entity_attributes":{"name":"United Nations Force Intervention Brigade"}}
+{"index":713,"entity_id":43112164,"entity_attributes":{"name":"European Union Training Mission in Somalia"}}
+{"index":714,"entity_id":45690137,"entity_attributes":{"name":"Grupos de autodefensa comunitaria"}}
+{"index":715,"entity_id":53185055,"entity_attributes":{"name":"All-Palestine Protectorate"}}

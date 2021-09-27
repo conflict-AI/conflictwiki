@@ -1,0 +1,54 @@
+{
+  "homepage": "https://conflict-ai.github.io/conflictwiki/",
+  "name": "graph-visualisation",
+  "version": "0.1.2",
+  "private": true,
+  "dependencies": {
+    "@testing-library/jest-dom": "^5.11.4",
+    "@testing-library/react": "^11.1.0",
+    "@testing-library/user-event": "^12.1.10",
+    "bootstrap": "^4.6.0",
+    "lodash": "^4.17.21",
+    "react": "^17.0.1",
+    "react-bootstrap": "^1.5.2",
+    "react-device-detect": "^1.17.0",
+    "react-dom": "^17.0.1",
+    "react-force-graph": "^1.40.3",
+    "react-scripts": "4.0.3",
+    "react-sizeme": "^3.0.1",
+    "reactjs-popup": "^2.0.4",
+    "web-vitals": "^1.0.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "rm -rf build && react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -b gh-pages -d build"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "resolutions": {
+    "bezier-js": "4.0.3"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "gh-pages": "^3.1.0"
+  }
+}
