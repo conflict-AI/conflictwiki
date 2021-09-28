@@ -30,6 +30,11 @@ export default () => (
 
 		<Modal.Body>
 		    <p>
+			Please find the link to the paper{" "}
+			<a href="https://arxiv.org/abs/2109.12860">here</a>.
+	  </p>
+
+		    <p>
 			Github repository with all the code, data and tutorials on how to
 			use the data can be found
 	    <a href=" https://github.com/conflict-ai/conflictwiki"> here </a>
@@ -51,7 +56,7 @@ booktitle={Proceedings of the 2021 Conference on Empirical Methods in Natural La
 year={2021},
 url={https://conflict-ai.github.io/conflictwiki/},
 }
-			`}
+			    `}
 		    </p>
 		</Modal.Body>
 	    </Modal.Dialog>
