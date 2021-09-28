@@ -1,4 +1,4 @@
-# Selected Model Hyperparameters
+# Model Hyperparameters
 
 |   | Dyadic Model     | Systemic Model | Ceiling Model |
 | :----:  |  :----:   |   :----:   |   :----: |
@@ -10,7 +10,7 @@
 | epochs | 30 | 30 | 30 |
 | early stopping patience |3| 3| 3|
 
-The grid search involved sweeping over the following hyperparameters space:
+The grid search involved sweeping over the following hyperparameter space:
 
 |   | Options |
 | :----:  |  :----:   | 
