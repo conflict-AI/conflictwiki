@@ -18,6 +18,7 @@ __pycache__/
 
 # Distribution / packaging
 .Python
+.DS_Store
 
 develop-eggs/
 dist/
